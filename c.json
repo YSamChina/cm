@@ -431,8 +431,8 @@
   {
     "name": "愛坤資源",
     "logo": "",
-    "desc": "小貓53特選源｜成人主導",
-    "nsfw": true,
+    "desc": "小貓53特選源",
+    "nsfw": false,
     "api": {
       "root": "https://ikunzyapi.com",
       "path": "/api.php/provide/vod/"
