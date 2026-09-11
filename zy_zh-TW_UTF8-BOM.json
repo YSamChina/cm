@@ -1,2954 +1,1743 @@
-﻿{
-  "sites": {
-    "default": 1,
-    "data": [
-      {
-        "key": "TIMI",
-        "name": "TIMI",
-        "api": "https://vipcj.timizy.top/api.php/provide/vod/",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 1
-      },
-      {
-        "key": "小貓咪",
-        "name": "小貓咪",
-        "api": "https://zy.xiaomaomi.tv/api.php/provide/vod/",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 2
-      },
-      {
-        "key": "海洋資源",
-        "name": "海洋資源",
-        "api": "https://www.seacms.org/zyapi.php",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 0,
-        "id": 3
-      },
-      {
-        "key": "奈斯資源",
-        "name": "奈斯資源",
-        "api": "http://123.129.230.58:3388/api.php/provide/vod/ ",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 4
-      },
-      {
-        "key": "U酷資源",
-        "name": "U酷資源",
-        "api": "https://api.ukuapi.com/api.php/provide/vod/",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 5
-      },
-      {
-        "key": "360資源",
-        "name": "360資源",
-        "api": "https://360zy.com/api.php/provide/vod/",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 6
-      },
-      {
-        "key": "黑木耳資源",
-        "name": "黑木耳資源",
-        "api": "https://json.heimuer.tv/api.php/provide/vod/",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 7
-      },
-      {
-        "key": "鴨鴨資源",
-        "name": "鴨鴨資源",
-        "api": "https://cj.yayazy.net/api.php/provide/vod/",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 8
-      },
-      {
-        "key": "牛牛資源",
-        "name": "牛牛資源",
-        "api": "https://api.niuniuzy.me/api.php/provide/vod/",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 9
-      },
-      {
-        "key": "OK資源",
-        "name": "OK資源",
-        "api": "https://api.okzy.org/api.php/provide/vod/",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 10
-      },
-      {
-        "key": "覓知",
-        "name": "覓知",
-        "api": "https://www.zbfmw.com/api.php/provide/vod/",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 11
-      },
-      {
-        "key": "淘片資源",
-        "name": "淘片資源",
-        "api": "https://taopianapi.com/cjapi/mc10/vod/json.html",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 12
-      },
-      {
-        "key": "華為吧",
-        "name": "華為吧",
-        "api": "https://huawei8.live/api.php/provide/vod/",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 13
-      },
-      {
-        "key": "魚樂資源",
-        "name": "魚樂資源",
-        "api": "https://104.161.22.124/api.php/provide/vod",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 14
-      },
-      {
-        "key": "索尼資源",
-        "name": "索尼資源",
-        "api": "https://suoniapi.com/api.php/provide/vod/",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 15
-      },
-      {
-        "key": "豪華資源",
-        "name": "豪華資源",
-        "api": "https://hhzyapi.com/api.php/provide/vod/",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 16
-      },
-      {
-        "key": "速博資源",
-        "name": "速博資源",
-        "api": "https://subocaiji.com/api.php/provide/vod/",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 17
-      },
-      {
-        "key": "虎牙資源",
-        "name": "虎牙資源",
-        "api": "https://www.huyaapi.com/api.php/provide/vod/",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 18
-      },
-      {
-        "key": "魔都資源",
-        "name": "魔都資源",
-        "api": "https://www.moduzy.com/api.php/provide/vod/",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 19
-      },
-      {
-        "key": "最大資源",
-        "name": "最大資源",
-        "api": "https://api.zuidapi.com/api.php/provide/vod/",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 20
-      },
-      {
-        "key": "暴風資源",
-        "name": "暴風資源",
-        "api": "https://bfzyapi.com/api.php/provide/vod/",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 21
-      },
-      {
-        "key": "快看資源",
-        "name": "快看資源",
-        "api": "https://kuaikan-api.com/api.php/provide/vod/",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 22
-      },
-      {
-        "key": "CK資源",
-        "name": "CK資源",
-        "api": "https://ckzy.me/api.php/provide/vod/",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 23
-      },
-      {
-        "key": "極速資源",
-        "name": "極速資源",
-        "api": "https://jszyapi.com/api.php/provide/vod/",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 24
-      },
-      {
-        "key": "火狐資源",
-        "name": "火狐資源",
-        "api": "https://hhzyapi.com/api.php/provide/vod/",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 25
-      },
-      {
-        "key": "金鷹資源",
-        "name": "金鷹資源",
-        "api": "https://jyzyapi.com/provide/vod/",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 26
-      },
-      {
-        "key": "愛坤資源",
-        "name": "愛坤資源",
-        "api": "https://ikunzyapi.com/api.php/provide/vod/",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 27
-      },
-      {
-        "key": "非凡資源",
-        "name": "非凡資源",
-        "api": "http://cj.ffzyapi.com/api.php/provide/vod/",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 28
-      },
-      {
-        "key": "1080資源庫",
-        "name": "1080資源庫",
-        "api": "https://api.1080zyku.com/inc/apijson.php",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 29
-      },
-      {
-        "key": "快車資源",
-        "name": "快車資源",
-        "api": "https://caiji.kczyapi.com/api.php/provide/vod/",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 30
-      },
-      {
-        "key": "量子資源",
-        "name": "量子資源",
-        "api": "http://cj.lziapi.com/api.php/provide/vod/",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 31
-      },
-      {
-        "key": "臥龍資源",
-        "name": "臥龍資源",
-        "api": "https://collect.wolongzyw.com/api.php/provide/vod/",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 32
-      },
-      {
-        "key": "紅牛資源",
-        "name": "紅牛資源",
-        "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 33
-      },
-      {
-        "key": "櫻花資源",
-        "name": "櫻花資源",
-        "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 34
-      },
-      {
-        "key": "易看資源",
-        "name": "易看資源",
-        "api": "https://api.yikanapi.com/api.php/provide/vod/",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 35
-      },
-      {
-        "key": "閃電資源",
-        "name": "閃電資源",
-        "api": "https://sdzyapi.com/api.php/provide/vod/",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 36
-      },
-      {
-        "key": "飛速資源",
-        "name": "飛速資源",
-        "api": "https://www.feisuzy.com/api.php/provide/vod/",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 37
-      },
-      {
-        "key": "光速資源",
-        "name": "光速資源",
-        "api": "https://api.guangsuapi.com/api.php/provide/vod/",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 38
-      },
-      {
-        "key": "新浪資源",
-        "name": "新浪資源",
-        "api": "http://api.xinlangapi.com/xinlangapi.php/provide/vod/",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 39
-      },
-      {
-        "key": "八戒資源",
-        "name": "八戒資源",
-        "api": "http://cj.bajiecaiji.com/inc/apijson_vod.php",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 40
-      },
-      {
-        "key": "百度資源",
-        "name": "百度資源",
-        "api": "https://api.apibdzy.com/api.php/provide/vod/",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 41
-      },
-      {
-        "key": "無盡資源",
-        "name": "無盡資源",
-        "api": "https://api.wujinapi.net/api.php/provide/vod/",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 42
-      },
-      {
-        "key": "天空資源",
-        "name": "天空資源",
-        "api": "https://api.tiankongapi.com/api.php/provide/vod/",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 43
-      },
-      {
-        "key": "天堂資源",
-        "name": "天堂資源",
-        "api": "https://tiantangapi.com/api.php/provide/vod/",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 44
-      },
-      {
-        "key": "影圖",
-        "name": "影圖",
-        "api": "https://cj.vodimg.top/api.php/provide/vod/",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 45
-      },
-      {
-        "key": "天翼影視",
-        "name": "天翼影視",
-        "api": "https://www.911ysw.top/tianyi.php/provide/vod/",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 46
-      },
-      {
-        "key": "39影視",
-        "name": "39影視",
-        "api": "https://www.394tv.com/api.php/provide/vod/",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 47
-      },
-      {
-        "key": "飄零影院",
-        "name": "飄零影院",
-        "api": "https://p2100.net/api.php/provide/vod/",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 48
-      },
-      {
-        "key": "票廠影視",
-        "name": "票廠影視",
-        "api": "http://101.43.119.105:88/api.php/provide/vod/",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 49
-      },
-      {
-        "key": "雨落影視",
-        "name": "雨落影視",
-        "api": "http://dsakf23665.com/api.php/provide/vod",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 50
-      },
-      {
-        "key": "155資源",
-        "name": "155資源",
-        "api": "https://155api.com/api.php/provide/vod/",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 51
-      },
-      {
-        "key": "優優資源",
-        "name": "優優資源",
-        "api": "https://jk1.yycmszywapi.cc/api.php/provide/vod/",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 52
-      },
-      {
-        "key": "色色虎",
-        "name": "色色虎",
-        "api": "https://apisesehuzy.com/api.php/provide/vod/",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 53
-      },
-      {
-        "key": "阿里BB倉庫",
-        "name": "阿里BB倉庫",
-        "api": "https://bbckzy8.cc/api.php/provide/vod/",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 54
-      },
-      {
-        "key": "精品X",
-        "name": "精品X",
-        "api": "https://www.jingpinx.com/api.php/provide/vod/",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 55
-      },
-      {
-        "key": "搞起資源",
-        "name": "搞起資源",
-        "api": "https://caiji.gqjiexi.com/api.php/provide/vod/",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 56
-      },
-      {
-        "key": "資源首發",
-        "name": "資源首發",
-        "api": "http://45.58.178.99/api.php/provide/vod/",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 57
-      },
-      {
-        "key": "麻豆資源",
-        "name": "麻豆資源",
-        "api": "https://c.mdvod.cc/api.php/provide/vod/",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 58
-      },
-      {
-        "key": "黃瓜資源1",
-        "name": "黃瓜資源1",
-        "api": "https://www.zy018.com/api.php/provide/vod/",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 59
-      },
-      {
-        "key": "黃瓜資源2",
-        "name": "黃瓜資源2",
-        "api": "https://www.avre04.com/api.php/provide/vod/",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 60
-      },
-      {
-        "key": "花都影視",
-        "name": "花都影視",
-        "api": "https://hdys2.com/api.php/provide/vod/",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 61
-      },
-      {
-        "key": "蘿莉資源",
-        "name": "蘿莉資源",
-        "api": "https://192.151.223.213/api.php/provide/vod/",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 62
-      },
-      {
-        "key": "七天",
-        "name": "七天",
-        "api": "https://8day.icu/api.php/provide/vod/",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 63
-      },
-      {
-        "key": "濕樂園",
-        "name": "濕樂園",
-        "api": "https://xxavs.com/api.php/provide/vod/",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 64
-      },
-      {
-        "key": "優異資源",
-        "name": "優異資源",
-        "api": "https://a.uezy.pw/api.php/provide/vod/",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 65
-      },
-      {
-        "key": "SEAJAV",
-        "name": "SEAJAV",
-        "api": "https://seajav.com/api.php/provide/vod/",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 66
-      },
-      {
-        "key": "精品葡萄",
-        "name": "精品葡萄",
-        "api": "https://caiji.putaozyw.net/inc/apijson_vod.php",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 67
-      },
-      {
-        "key": "老色逼資源",
-        "name": "老色逼資源",
-        "api": "https://apilsbzy1.com/api.php/provide/vod/",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 68
-      },
-      {
-        "key": "橘貓資源(絲襪)",
-        "name": "橘貓資源(絲襪)",
-        "api": "https://to.to-long.com/api.php/provide/vod/",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 69
-      },
-      {
-        "key": "絲襪資源",
-        "name": "絲襪資源",
-        "api": "https://www.siwazyw.tv/api.php/provide/vod/",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 70
-      },
-      {
-        "key": "探探資源",
-        "name": "探探資源",
-        "api": "https://apittzy.com/api.php/provide/vod/",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 71
-      },
-      {
-        "key": "色貓資源",
-        "name": "色貓資源",
-        "api": "https://caiji.semaozy.net/inc/apijson_vod.php",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 72
-      },
-      {
-        "key": "皇冠資源",
-        "name": "皇冠資源",
-        "api": "https://bb.hgzy18.com/api.php/provide/vod/",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 73
-      },
-      {
-        "key": "滴滴資源",
-        "name": "滴滴資源",
-        "api": "https://api.ddapi.cc/api.php/provide/vod/",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 74
-      },
-      {
-        "key": "雪豹資源",
-        "name": "雪豹資源",
-        "api": "https://api.xbapi.cc/api.php/provide/vod/",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 75
-      },
-      {
-        "key": "森林資源",
-        "name": "森林資源",
-        "api": "https://slapibf.com/api.php/provide/vod/",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 76
-      },
-      {
-        "key": "玉兔資源",
-        "name": "玉兔資源",
-        "api": "https://apiyutu.com/api.php/provide/vod/",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 77
-      },
-      {
-        "key": "草榴資源",
-        "name": "草榴資源",
-        "api": "https://www.caoliuzyw.com/api.php/provide/vod/",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 78
-      },
-      {
-        "key": "老鴇資源",
-        "name": "老鴇資源",
-        "api": "http://laobaozy.com/api.php/provide/vod/",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 79
-      },
-      {
-        "key": "老鴨資源",
-        "name": "老鴨資源",
-        "api": "https://api.apilyzy.com/api.php/provide/vod/",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 80
-      },
-      {
-        "key": "雞坤資源",
-        "name": "雞坤資源",
-        "api": "https://jkunzyapi.com/api.php/provide/vod/",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 81
-      },
-      {
-        "key": "奶香香資源",
-        "name": "奶香香資源",
-        "api": "https://naixxzy.com/api.php/provide/vod/",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 82
-      },
-      {
-        "key": "奧斯卡資源",
-        "name": "奧斯卡資源",
-        "api": "https://aosikazy.com/api.php/provide/vod/",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 83
-      },
-      {
-        "key": "色南國資源",
-        "name": "色南國資源",
-        "api": "https://api.sexnguon.com/api.php/provide/vod/",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 84
-      },
-      {
-        "key": "越南資源",
-        "name": "越南資源",
-        "api": "https://vnzyz.com/api.php/provide/vod/",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 85
-      },
-      {
-        "key": "91麻豆",
-        "name": "91麻豆",
-        "api": "https://91md.me/api.php/provide/vod/",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 86
-      },
-      {
-        "key": "美少女資源",
-        "name": "美少女資源",
-        "api": "https://www.msnii.com/api/json.php",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 87
-      },
-      {
-        "key": "淫水機資源",
-        "name": "淫水機資源",
-        "api": "https://www.xrbsp.com/api/json.php",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 88
-      },
-      {
-        "key": "香奶兒資源",
-        "name": "香奶兒資源",
-        "api": "https://www.gdlsp.com/api/json.php",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 89
-      },
-      {
-        "key": "白嫖資源",
-        "name": "白嫖資源",
-        "api": "https://www.kxgav.com/api/json.php",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 90
-      },
-      {
-        "key": "小濕妹資源",
-        "name": "小濕妹資源",
-        "api": "https://www.afasu.com/api/json.php",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 91
-      },
-      {
-        "key": "黃AV資源",
-        "name": "黃AV資源",
-        "api": "https://www.pgxdy.com/api/json.php",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 92
-      },
-      {
-        "key": "大地資源",
-        "name": "大地資源",
-        "api": "https://dadiapi.com/api.php",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 0,
-        "id": 93
-      },
-      {
-        "key": "辣椒資源",
-        "name": "辣椒資源",
-        "api": "https://apilj.com/api.php/provide/vod/",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 94
-      },
-      {
-        "key": "樂播資源",
-        "name": "樂播資源",
-        "api": "https://lbapi9.com/api.php/provide/vod/",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 95
-      },
-      {
-        "key": "富二代資源",
-        "name": "富二代資源",
-        "api": "http://f2dcj6.com/sapi",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 0,
-        "id": 96
-      },
-      {
-        "key": "利來資源",
-        "name": "利來資源",
-        "api": "http://llzxcj.com/inc/sck.php",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 0,
-        "id": 97
-      },
-      {
-        "key": "番號資源",
-        "name": "番號資源",
-        "api": "http://fhapi9.com/api.php/provide/vod/",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 98
-      },
-      {
-        "key": "鯊魚資源",
-        "name": "鯊魚資源",
-        "api": "https://shayuapi.com/api.php/provide/vod/",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 99
-      },
-      {
-        "key": "KK寫真資源",
-        "name": "KK寫真資源",
-        "api": "https://kkzy.me/api.php/provide/vod/",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 100
-      },
-      {
-        "key": "色屌絲資源",
-        "name": "色屌絲資源",
-        "api": "http://sdszyapi.com/cjapi/mc10/vod/json.html",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 101
-      },
-      {
-        "key": "小姐姐資源",
-        "name": "小姐姐資源",
-        "api": "https://xjjzyapi.com/cjapi/mc10/vod/json.html",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 102
-      },
-      {
-        "key": "52AVAV",
-        "name": "52AVAV",
-        "api": "https://52zyapi.com/cjapi/mc10/vod/json.html",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 103
-      },
-      {
-        "key": "我要啪啪",
-        "name": "我要啪啪",
-        "api": "http://www.caiji21.com/cjapi/mc10/vod/json.html",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 104
-      },
-      {
-        "key": "AV集中淫",
-        "name": "AV集中淫",
-        "api": "https://www.caiji22.com/cjapi/mc10/vod/json.html",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 105
-      },
-      {
-        "key": "夜夜擼資源",
-        "name": "夜夜擼資源",
-        "api": "https://www.caiji23.com/cjapi/mc10/vod/json.html",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 106
-      },
-      {
-        "key": "大屌絲資源",
-        "name": "大屌絲資源",
-        "api": "http://www.caiji24.com/cjapi/mc10/vod/json.html",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 107
-      },
-      {
-        "key": "咪咪資源",
-        "name": "咪咪資源",
-        "api": "http://www.caiji25.com/cjapi/mc10/vod/json.html",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 108
-      },
-      {
-        "key": "鮑魚AV",
-        "name": "鮑魚AV",
-        "api": "http://caiji26.com/cjapi/mc10/vod/json.html",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 109
-      },
-      {
-        "key": "精工廠資源",
-        "name": "精工廠資源",
-        "api": "https://jgczyapi.com/cjapi/mc10/vod/json.html",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 110
-      },
-      {
-        "key": "點點娛樂",
-        "name": "點點娛樂",
-        "api": "https://xx55zyapi.com/cjapi/mc10/vod/json.html",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 111
-      },
-      {
-        "key": "大MM資源",
-        "name": "大MM資源",
-        "api": "https://www.dmmapi.com/cjapi/mc10/vod/json.html",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 112
-      },
-      {
-        "key": "老司雞資源",
-        "name": "老司雞資源",
-        "api": "https://www.lsjapi.com/cjapi/mc10/vod/json.html",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 113
-      },
-      {
-        "key": "黃瓜TV資源",
-        "name": "黃瓜TV資源",
-        "api": "https://www.caiji10.com/cjapi/mc10/vod/json.html",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 114
-      },
-      {
-        "key": "快播盒子資源",
-        "name": "快播盒子資源",
-        "api": "https://www.caiji09.com/cjapi/mc10/vod/json.html",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 115
-      },
-      {
-        "key": "大香蕉資源",
-        "name": "大香蕉資源",
-        "api": "https://www.caiji08.com/cjapi/mc10/vod/json.html",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 116
-      },
-      {
-        "key": "日本AV在線",
-        "name": "日本AV在線",
-        "api": "https://www.caiji07.com/cjapi/mc10/vod/json.html",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 117
-      },
-      {
-        "key": "青青草視頻",
-        "name": "青青草視頻",
-        "api": "https://www.caiji05.com/cjapi/mc10/vod/json.html",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 118
-      },
-      {
-        "key": "麻豆視頻",
-        "name": "麻豆視頻",
-        "api": "https://www.caiji04.com/cjapi/mc10/vod/json.html",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 119
-      },
-      {
-        "key": "一本道資源",
-        "name": "一本道資源",
-        "api": "https://www.caiji03.com/cjapi/mc10/vod/json.html",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 120
-      },
-      {
-        "key": "草榴視頻",
-        "name": "草榴視頻",
-        "api": "https://www.caiji02.com/cjapi/mc10/vod/json.html",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 121
-      },
-      {
-        "key": "亞洲成人在線",
-        "name": "亞洲成人在線",
-        "api": "https://www.caiji01.com/cjapi/mc10/vod/json.html",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 122
-      },
-      {
-        "key": "99資源",
-        "name": "99資源",
-        "api": "http://99zy.pw/api.php/provide/vod/",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 123
-      },
-      {
-        "key": "速度資源",
-        "name": "速度資源",
-        "api": "http://www.ggmmzy.com:9999/inc/xml",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 0,
-        "id": 124
-      },
-      {
-        "key": "91視頻",
-        "name": "91視頻",
-        "api": "https://91av.cyou/api.php/provide/vod/",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 125
-      },
-      {
-        "key": "博天堂",
-        "name": "博天堂",
-        "api": "http://bttcj.com/inc/sapi.php",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 0,
-        "id": 126
-      },
-      {
-        "key": "環亞資源",
-        "name": "環亞資源",
-        "api": "http://hysscj.com/inc/sapi.php",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 0,
-        "id": 127
-      },
-      {
-        "key": "好色資源",
-        "name": "好色資源",
-        "api": "https://haosezyw.com/api.php/provide/vod/",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 128
-      },
-      {
-        "key": "久愛",
-        "name": "久愛",
-        "api": "http://92free.icu/api.php/provide/vod/",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 129
-      },
-      {
-        "key": "麻豆視頻",
-        "name": "麻豆視頻",
-        "api": "http://www.madouse.la/api.php/provide/vod/",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 130
-      },
-      {
-        "key": "蜜桃視頻",
-        "name": "蜜桃視頻",
-        "api": "https://mtav.art/api.php/provide/vod/",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 131
-      },
-      {
-        "key": "色資源",
-        "name": "色資源",
-        "api": "https://sezy.website/api.php/provide/vod/",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 132
-      },
-      {
-        "key": "天美AV",
-        "name": "天美AV",
-        "api": "https://tmav.art/api.php/provide/vod/",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 133
-      },
-      {
-        "key": "QQ傳媒",
-        "name": "QQ傳媒",
-        "api": "https://qqcm.sbs/api.php/provide/vod/",
-        "download": "",
-        "jiexiUrl": "",
-        "group": "影視",
-        "status": true,
-        "isActive": true,
-        "type": 1,
-        "id": 134
-      }
-    ]
+  {
+    "name": "TIMI",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://vipcj.timizy.top",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "zy_1",
+    "status": true,
+    "jiexiUrl": null
   },
-  "iptv": {
-    "default": 1,
-    "data": [
-      {
-        "name": "Ray直播",
-        "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt",
-        "type": "remote",
-        "epg": "http://epg.112114.xyz",
-        "isActive": true,
-        "id": 1
-      },
-      {
-        "name": "刺蝟直播一",
-        "url": "https://www.xn--rgv465a.top/刺猬直播禁止贩卖",
-        "type": "remote",
-        "epg": "http://epg.112114.xyz",
-        "isActive": true,
-        "id": 2
-      },
-      {
-        "name": "刺蝟直播二",
-        "url": "https://www.cwss.xyz/刺猬直播禁止贩卖",
-        "type": "remote",
-        "epg": "http://epg.112114.xyz",
-        "isActive": true,
-        "id": 3
-      },
-      {
-        "name": "俊於直播",
-        "url": "http://home.jundie.top:81/Cat/tv/live.txt",
-        "type": "remote",
-        "epg": "http://epg.112114.xyz",
-        "isActive": true,
-        "id": 4
-      },
-      {
-        "name": "xxx Japan 1",
-        "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan 1.m3u",
-        "type": "remote",
-        "epg": "",
-        "isActive": true,
-        "id": 5
-      },
-      {
-        "name": "xxx Japan 2",
-        "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan 2.m3u",
-        "type": "remote",
-        "epg": "",
-        "isActive": true,
-        "id": 6
-      },
-      {
-        "name": "xxx Japan A-B",
-        "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan A-B.m3u",
-        "type": "remote",
-        "epg": "",
-        "isActive": true,
-        "id": 7
-      },
-      {
-        "name": "xxx Japan C-H",
-        "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan C-H.m3u",
-        "type": "remote",
-        "epg": "",
-        "isActive": true,
-        "id": 8
-      },
-      {
-        "name": "xxx Japan I-L",
-        "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan I-L.m3u",
-        "type": "remote",
-        "epg": "",
-        "isActive": true,
-        "id": 9
-      },
-      {
-        "name": "xxx Japan M-R",
-        "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan M-R.m3u",
-        "type": "remote",
-        "epg": "",
-        "isActive": true,
-        "id": 10
-      },
-      {
-        "name": "xxx Japan S",
-        "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan S.m3u",
-        "type": "remote",
-        "epg": "",
-        "isActive": true,
-        "id": 11
-      },
-      {
-        "name": "xxx Japan T-W",
-        "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan T-W.m3u",
-        "type": "remote",
-        "epg": "",
-        "isActive": true,
-        "id": 12
-      },
-      {
-        "name": "xxx Japan X",
-        "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan X.m3u",
-        "type": "remote",
-        "epg": "",
-        "isActive": true,
-        "id": 13
-      },
-      {
-        "name": "xxx Japan Y",
-        "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan Y.m3u",
-        "type": "remote",
-        "epg": "",
-        "isActive": true,
-        "id": 14
-      },
-      {
-        "name": "xxx Japan Z",
-        "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan Z.m3u",
-        "type": "remote",
-        "epg": "",
-        "isActive": true,
-        "id": 15
-      },
-      {
-        "name": "xxx",
-        "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx.m3u",
-        "type": "remote",
-        "epg": "",
-        "isActive": true,
-        "id": 16
-      },
-      {
-        "name": "ZTHA000-1",
-        "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ZTHA000/tvbox/main/69/1asvfdgs.txt",
-        "type": "remote",
-        "epg": "",
-        "isActive": true,
-        "id": 17
-      },
-      {
-        "name": "ZTHA000-2",
-        "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ZTHA000/tvbox/main/69/2shqdjgcn.txt",
-        "type": "remote",
-        "epg": "",
-        "isActive": true,
-        "id": 18
-      },
-      {
-        "name": "ZTHA000-3",
-        "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ZTHA000/tvbox/main/69/3renyushou.txt",
-        "type": "remote",
-        "epg": "",
-        "isActive": true,
-        "id": 19
-      },
-      {
-        "name": "ZTHA000-4",
-        "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ZTHA000/tvbox/main/69/4gffhdghgc.txt",
-        "type": "remote",
-        "epg": "",
-        "isActive": true,
-        "id": 20
-      },
-      {
-        "name": "ZTHA000-5",
-        "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ZTHA000/tvbox/main/69/5sdhgfds.txt",
-        "type": "remote",
-        "epg": "",
-        "isActive": true,
-        "id": 21
-      },
-      {
-        "name": "AV換臉",
-        "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ZTHA000/tvbox/main/tv/18/AV%E6%8D%A2%E8%84%B8.txt",
-        "type": "remote",
-        "epg": "",
-        "isActive": true,
-        "id": 22
-      },
-      {
-        "name": "麻豆老師",
-        "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ZTHA000/tvbox/main/tv/18/MD(345).txt",
-        "type": "remote",
-        "epg": "",
-        "isActive": true,
-        "id": 23
-      },
-      {
-        "name": "搬磚69",
-        "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ZTHA000/tvbox/main/tv/18/bz69.txt",
-        "type": "remote",
-        "epg": "",
-        "isActive": true,
-        "id": 24
-      },
-      {
-        "name": "番號點播",
-        "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ZTHA000/tvbox/main/tv/18/fhdb.txt",
-        "type": "remote",
-        "epg": "",
-        "isActive": true,
-        "id": 25
-      },
-      {
-        "name": "歐美老師",
-        "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ZTHA000/tvbox/main/tv/18/om%E8%80%81%E5%B8%88.txt",
-        "type": "remote",
-        "epg": "",
-        "isActive": true,
-        "id": 26
-      },
-      {
-        "name": "挺好專享1",
-        "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ZTHA000/tvbox/main/tv/18/thzx1.txt",
-        "type": "remote",
-        "epg": "",
-        "isActive": true,
-        "id": 27
-      },
-      {
-        "name": "挺好專享2",
-        "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ZTHA000/tvbox/main/tv/18/thzx2.txt",
-        "type": "remote",
-        "epg": "",
-        "isActive": true,
-        "id": 28
-      },
-      {
-        "name": "挺好專享3",
-        "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ZTHA000/tvbox/main/tv/18/thzx3.txt",
-        "type": "remote",
-        "epg": "",
-        "isActive": true,
-        "id": 29
-      },
-      {
-        "name": "挺好專享4",
-        "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ZTHA000/tvbox/main/tv/18/thzx4.txt",
-        "type": "remote",
-        "epg": "",
-        "isActive": true,
-        "id": 30
-      },
-      {
-        "name": "挺好專享5",
-        "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ZTHA000/tvbox/main/tv/18/thzx5.txt",
-        "type": "remote",
-        "epg": "",
-        "isActive": true,
-        "id": 31
-      },
-      {
-        "name": "挺好專享7",
-        "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ZTHA000/tvbox/main/tv/18/thzx7.txt",
-        "type": "remote",
-        "epg": "",
-        "isActive": true,
-        "id": 32
-      },
-      {
-        "name": "亞洲老師",
-        "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ZTHA000/tvbox/main/tv/18/yzls.txt",
-        "type": "remote",
-        "epg": "",
-        "isActive": true,
-        "id": 33
-      },
-      {
-        "name": "大量",
-        "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ZTHA000/tvbox/main/tv/18/%E5%A4%A7%E9%87%8F.txt",
-        "type": "remote",
-        "epg": "",
-        "isActive": true,
-        "id": 34
-      },
-      {
-        "name": "BZtv",
-        "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ZTHA000/tvbox/main/tv/BZtv.txt",
-        "type": "remote",
-        "epg": "",
-        "isActive": true,
-        "id": 35
-      },
-      {
-        "name": "DYtv",
-        "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ZTHA000/tvbox/main/tv/DYtv.txt",
-        "type": "remote",
-        "epg": "",
-        "isActive": true,
-        "id": 36
-      },
-      {
-        "name": "THtv",
-        "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ZTHA000/tvbox/main/tv/THtv.txt",
-        "type": "remote",
-        "epg": "",
-        "isActive": true,
-        "id": 37
-      },
-      {
-        "name": "ZTHAIPTV",
-        "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ZTHA000/tvbox/main/tv/ZTHAIPTV.txt",
-        "type": "remote",
-        "epg": "",
-        "isActive": true,
-        "id": 38
-      },
-      {
-        "name": "爬蟲H射倉庫源",
-        "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/kan31467/1/main/tv/爬虫H射仓库源.txt",
-        "type": "remote",
-        "epg": "",
-        "isActive": true,
-        "id": 39
-      },
-      {
-        "name": "司機合集",
-        "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ZTHA000/tvbox/main/tv/%E5%8F%B8%E6%9C%BA%E5%90%88%E9%9B%86.m3u",
-        "type": "remote",
-        "epg": "",
-        "isActive": true,
-        "id": 40
-      },
-      {
-        "name": "學習強國",
-        "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ZTHA000/tvbox/main/tv/%E5%AD%A6%E4%B9%A0%E5%BC%BA%E5%9B%BD.m3u",
-        "type": "remote",
-        "epg": "",
-        "isActive": true,
-        "id": 41
-      },
-      {
-        "name": "影子直播(蘋果用）",
-        "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ZTHA000/tvbox/main/tv/%E5%AD%A6%E4%B9%A0%E5%BC%BA%E5%9B%BD.m3u",
-        "type": "remote",
-        "epg": "",
-        "isActive": true,
-        "id": 42
-      },
-      {
-        "name": "新福利來了",
-        "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ZTHA000/tvbox/main/tv/%E6%96%B0%E7%A6%8F%E5%88%A9%E6%9D%A5%E4%BA%86.txt",
-        "type": "remote",
-        "epg": "",
-        "isActive": true,
-        "id": 43
-      },
-      {
-        "name": "福利劇情",
-        "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ZTHA000/tvbox/main/tv/%E7%A6%8F%E5%88%A9%E5%89%A7%E6%83%85.txt",
-        "type": "remote",
-        "epg": "",
-        "isActive": true,
-        "id": 44
-      },
-      {
-        "name": "SSM0415",
-        "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/SSM0415/apptest/main/TVonline.txt",
-        "type": "remote",
-        "epg": "",
-        "isActive": true,
-        "id": 45
-      },
-      {
-        "name": "zeee-u",
-        "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/zeee-u/lzh06/main/fl.txt",
-        "type": "remote",
-        "epg": "",
-        "isActive": true,
-        "id": 46
-      },
-      {
-        "name": "zeee-u",
-        "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/zeee-u/lzh06/main/fl.m3u",
-        "type": "remote",
-        "epg": "",
-        "isActive": true,
-        "id": 47
-      }
-    ]
+  {
+    "name": "小猫咪",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://zy.xiaomaomi.tv",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "zy_2",
+    "status": true,
+    "jiexiUrl": null
   },
-  "analyze": {
-    "default": 2,
-    "data": [
-      {
-        "id": 1,
-        "name": "純淨",
-        "url": "https://im1907.top/?jx=",
-        "isActive": true
-      },
-      {
-        "id": 2,
-        "name": "聽樂",
-        "url": "https://jx.dj6u.com/?url=",
-        "isActive": true
-      },
-      {
-        "id": 3,
-        "name": "YT",
-        "url": "https://jx.yangtu.top/?url=",
-        "isActive": true
-      },
-      {
-        "id": 4,
-        "name": "蝦米",
-        "url": "https://jx.xmflv.com/?url=",
-        "isActive": true
-      },
-      {
-        "id": 5,
-        "name": "OK解析",
-        "url": "https://okjx.cc/?url=",
-        "isActive": false
-      },
-      {
-        "id": 6,
-        "name": "諾訊",
-        "url": "https://www.nxflv.com/?url=",
-        "isActive": false
-      },
-      {
-        "id": 7,
-        "name": "夜幕",
-        "url": "https://www.yemu.xyz/?url=",
-        "isActive": true
-      },
-      {
-        "id": 8,
-        "name": "M3U8.TV",
-        "url": "https://jx.m3u8.tv/jiexi/?url=",
-        "isActive": true
-      },
-      {
-        "id": 9,
-        "name": "人人迷",
-        "url": "https://jx.blbo.cc:4433/?url=",
-        "isActive": false
-      },
-      {
-        "id": 10,
-        "name": "全民",
-        "url": "https://jx.blbo.cc:4433/?url=",
-        "isActive": false
-      },
-      {
-        "id": 11,
-        "name": "七哥",
-        "url": "https://jx.nnxv.cn/tv.php?url=",
-        "isActive": true
-      },
-      {
-        "id": 12,
-        "name": "冰豆",
-        "url": "https://api.qianqi.net/vip/?url=",
-        "isActive": false
-      },
-      {
-        "id": 13,
-        "name": "迪奧",
-        "url": "https://123.1dior.cn/?url=",
-        "isActive": false
-      },
-      {
-        "id": 14,
-        "name": "CK",
-        "url": "https://www.ckplayer.vip/jiexi/?url=",
-        "isActive": true
-      },
-      {
-        "id": 15,
-        "name": "ckmov",
-        "url": "https://www.ckmov.vip/api.php?url=",
-        "isActive": false
-      },
-      {
-        "id": 16,
-        "name": "playerjy/B站",
-        "url": "https://jx.playerjy.com/?url=",
-        "isActive": true
-      },
-      {
-        "id": 17,
-        "name": "ccyjjd",
-        "url": "https://ckmov.ccyjjd.com/ckmov/?url=",
-        "isActive": false
-      },
-      {
-        "id": 18,
-        "name": "ckmov",
-        "url": "https://www.ckmov.com/?url=",
-        "isActive": false
-      },
-      {
-        "id": 19,
-        "name": "H8",
-        "url": "https://www.h8jx.com/jiexi.php?url=",
-        "isActive": false
-      },
-      {
-        "id": 20,
-        "name": "BL",
-        "url": "https://vip.bljiex.com/?v=",
-        "isActive": false
-      },
-      {
-        "id": 21,
-        "name": "解析la",
-        "url": "https://api.jiexi.la/?url=",
-        "isActive": false
-      },
-      {
-        "id": 22,
-        "name": "MUTV",
-        "url": "https://jiexi.janan.net/jiexi/?url=",
-        "isActive": true
-      },
-      {
-        "id": 23,
-        "name": "MAO",
-        "url": "https://www.mtosz.com/m3u8.php?url=",
-        "isActive": false
-      },
-      {
-        "id": 24,
-        "name": "盤古",
-        "url": "https://www.pangujiexi.cc/jiexi.php?url=",
-        "isActive": false
-      },
-      {
-        "id": 25,
-        "name": "0523",
-        "url": "https://go.yh0523.cn/y.cy?url=",
-        "isActive": false
-      },
-      {
-        "id": 26,
-        "name": "17雲",
-        "url": "https://www.1717yun.com/jx/ty.php?url=",
-        "isActive": false
-      },
-      {
-        "id": 27,
-        "name": "4K",
-        "url": "https://jx.4kdv.com/?url=",
-        "isActive": false
-      },
-      {
-        "id": 28,
-        "name": "8090",
-        "url": "https://www.8090g.cn/?url=",
-        "isActive": false
-      },
-      {
-        "id": 29,
-        "name": "180",
-        "url": "https://jx.000180.top/jx/?url=",
-        "isActive": false
-      },
-      {
-        "id": 30,
-        "name": "無名",
-        "url": "https://www.administratorw.com/video.php?url=",
-        "isActive": false
-      },
-      {
-        "id": 31,
-        "name": "陽途",
-        "url": "https://jx.yangtu.top/?url=",
-        "isActive": true
-      },
-      {
-        "id": 32,
-        "name": "777Player",
-        "url": "https://jx.jsonplayer.com/player/?url=",
-        "isActive": false
-      },
-      {
-        "name": "JY",
-        "url": "https://jx.playerjy.com/?url=",
-        "isActive": true,
-        "id": 250
-      }
-    ]
+  {
+    "name": "海洋资源",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://www.seacms.org",
+      "path": "/zyapi.php"
+    },
+    "id": "zy_3",
+    "status": true,
+    "jiexiUrl": null
   },
-  "drive": {
-    "default": 2,
-    "data": [
-      {
-        "name": "🌊神器雲",
-        "server": "https://al.chirmyram.com",
-        "startPage": "",
-        "search": false,
-        "headers": null,
-        "params": null,
-        "isActive": true,
-        "id": 1
-      },
-      {
-        "name": "🏓小雅",
-        "server": "https://alist.shenzjd.com",
-        "startPage": "",
-        "search": false,
-        "headers": null,
-        "params": null,
-        "isActive": true,
-        "id": 2
-      },
-      {
-        "name": "🎧個人",
-        "server": "https://alist.azad.asia/",
-        "startPage": "",
-        "search": false,
-        "headers": null,
-        "params": null,
-        "isActive": true,
-        "id": 3
-      },
-      {
-        "name": "🐉神族九帝",
-        "server": "https://alist.shenzjd.com",
-        "startPage": "",
-        "search": false,
-        "headers": null,
-        "params": null,
-        "isActive": true,
-        "id": 4
-      },
-      {
-        "name": "✨星夢",
-        "server": "https://pan.bashroot.top",
-        "startPage": "",
-        "search": false,
-        "headers": null,
-        "params": null,
-        "isActive": true,
-        "id": 5
-      },
-      {
-        "name": "💫觸光",
-        "server": "https://pan.ichuguang.com",
-        "startPage": "",
-        "search": false,
-        "headers": null,
-        "params": null,
-        "isActive": true,
-        "id": 6
-      },
-      {
-        "name": "👐雨呢",
-        "server": "https://pan.clun.top/",
-        "startPage": "",
-        "search": false,
-        "headers": null,
-        "params": null,
-        "isActive": true,
-        "id": 7
-      },
-      {
-        "name": "🧬杜比",
-        "server": "https://dubi.tk",
-        "startPage": "",
-        "search": false,
-        "headers": null,
-        "params": null,
-        "isActive": true,
-        "id": 8
-      },
-      {
-        "name": "🎧聽聞網盤",
-        "server": "https://wangpan.sangxuesheng.com",
-        "startPage": "",
-        "search": false,
-        "headers": null,
-        "params": null,
-        "isActive": false,
-        "id": 9
-      },
-      {
-        "name": "🤮布滿灰塵",
-        "server": "https://pan.baiblog.ren/",
-        "startPage": "",
-        "search": false,
-        "headers": null,
-        "params": null,
-        "isActive": true,
-        "id": 10
-      },
-      {
-        "name": "☃姬路白雪",
-        "server": "https://pan.jlbx.xyz",
-        "startPage": "",
-        "search": false,
-        "headers": null,
-        "params": null,
-        "isActive": true,
-        "id": 11
-      },
-      {
-        "name": "🦀9T(Adult)",
-        "server": "https://drive.upan.ee/",
-        "startPage": "",
-        "search": false,
-        "headers": null,
-        "params": null,
-        "isActive": true,
-        "id": 12
-      },
-      {
-        "name": "🌤晴園的寶藏庫",
-        "server": "alist.aqingyuan.repl.co",
-        "startPage": "",
-        "search": false,
-        "headers": null,
-        "params": null,
-        "isActive": true,
-        "id": 13
-      },
-      {
-        "name": "🐭米奇妙妙屋",
-        "server": "https://anime.mqmmw.ga",
-        "startPage": "",
-        "search": false,
-        "headers": null,
-        "params": null,
-        "isActive": true,
-        "id": 14
-      },
-      {
-        "name": "💂小兵組網盤影視",
-        "server": "https://6vv.app",
-        "startPage": "",
-        "search": false,
-        "headers": null,
-        "params": null,
-        "isActive": true,
-        "id": 15
-      },
-      {
-        "name": "🐋一隻魚",
-        "server": "https://alist.youte.ml",
-        "startPage": "",
-        "search": false,
-        "headers": null,
-        "params": null,
-        "isActive": true,
-        "id": 16
-      },
-      {
-        "name": "ASMR基佬中心",
-        "server": "https://www.asmrgay.com/",
-        "startPage": "",
-        "search": false,
-        "headers": null,
-        "params": null,
-        "isActive": true,
-        "id": 17
-      },
-      {
-        "name": "🥼帥盤",
-        "server": "https://hi.shuaipeng.wang",
-        "startPage": "",
-        "search": false,
-        "headers": null,
-        "params": null,
-        "isActive": true,
-        "id": 18
-      },
-      {
-        "name": "💾DISK",
-        "server": "http://124.222.140.243:8080",
-        "startPage": "",
-        "search": false,
-        "headers": null,
-        "params": null,
-        "isActive": true,
-        "id": 21
-      },
-      {
-        "name": "🌨雲播放",
-        "server": "https://quanzi.laoxianghuijia.cn",
-        "startPage": "",
-        "search": false,
-        "headers": null,
-        "params": null,
-        "isActive": true,
-        "id": 22
-      },
-      {
-        "name": "🕵️好漢吧",
-        "server": "https://8023.haohanba.cn",
-        "startPage": "",
-        "search": false,
-        "headers": null,
-        "params": null,
-        "isActive": true,
-        "id": 25
-      },
-      {
-        "name": "💢repl",
-        "server": "https://ali.liucn.repl.co",
-        "startPage": "",
-        "search": false,
-        "headers": null,
-        "params": null,
-        "isActive": true,
-        "id": 26
-      },
-      {
-        "name": "🌨秋雨分享",
-        "server": "https://share.laowang.me",
-        "startPage": "",
-        "search": false,
-        "headers": null,
-        "params": null,
-        "isActive": true,
-        "id": 27
-      },
-      {
-        "name": "💦訊維雲盤",
-        "server": "https://pan.xwbeta.com",
-        "startPage": "",
-        "search": false,
-        "headers": null,
-        "params": null,
-        "isActive": true,
-        "id": 28
-      },
-      {
-        "name": "fw",
-        "server": "http://69.161.221.160:5244/",
-        "startPage": "",
-        "search": false,
-        "headers": null,
-        "params": null,
-        "isActive": true,
-        "id": 29
-      },
-      {
-        "name": "alist.eduedu.eu.org",
-        "server": "https://alist.eduedu.eu.org",
-        "startPage": "",
-        "search": false,
-        "headers": null,
-        "params": null,
-        "isActive": true,
-        "id": 30
-      },
-      {
-        "name": "LG五星棒",
-        "server": "https://lala-ofbip.run.goorm.site/",
-        "startPage": "",
-        "search": false,
-        "headers": null,
-        "params": null,
-        "isActive": true,
-        "id": 31
-      },
-      {
-        "name": "進恩哥資源倉庫",
-        "server": "https://jinenyy.vip",
-        "startPage": "",
-        "search": false,
-        "headers": null,
-        "params": null,
-        "isActive": true,
-        "id": 32
-      },
-      {
-        "name": "🐱梓澪の妙妙屋",
-        "server": "https://zi0.cc/",
-        "startPage": "",
-        "search": false,
-        "headers": null,
-        "params": null,
-        "isActive": true,
-        "id": 33
-      },
-      {
-        "name": "🚆資源小站",
-        "server": "https://pan.142856.xyz",
-        "startPage": "",
-        "search": false,
-        "headers": null,
-        "params": null,
-        "isActive": true,
-        "id": 34
-      },
-      {
-        "name": "🔮嗨翻",
-        "server": "https://pan.hikerfans.com",
-        "startPage": "",
-        "search": false,
-        "headers": null,
-        "params": null,
-        "isActive": true,
-        "id": 35
-      },
-      {
-        "name": "📀小光盤",
-        "server": "https://alist.xiaoguanxiaocheng.life",
-        "startPage": "",
-        "search": false,
-        "headers": null,
-        "params": null,
-        "isActive": true,
-        "id": 36
-      },
-      {
-        "name": "🌴非盤",
-        "server": "http://www.feifwp.top",
-        "startPage": "",
-        "search": false,
-        "headers": null,
-        "params": null,
-        "isActive": true,
-        "id": 37
-      },
-      {
-        "name": "☃姬路白雪",
-        "server": "https://pan.jlbx.xyz",
-        "startPage": "",
-        "search": false,
-        "headers": null,
-        "params": null,
-        "isActive": true,
-        "id": 38
-      },
-      {
-        "name": "🌊小江",
-        "server": "https://dyj.me",
-        "startPage": "",
-        "search": false,
-        "headers": null,
-        "params": null,
-        "isActive": true,
-        "id": 39
-      },
-      {
-        "name": "🥗AUNEY",
-        "server": "http://121.227.25.116:8008",
-        "startPage": "",
-        "search": false,
-        "headers": null,
-        "params": null,
-        "isActive": true,
-        "id": 40
-      },
-      {
-        "name": "🎡資源小站",
-        "server": "https://960303.xyz/",
-        "startPage": "",
-        "search": false,
-        "headers": null,
-        "params": null,
-        "isActive": true,
-        "id": 41
-      },
-      {
-        "name": "🏝fenwe",
-        "server": "http://www.fenwe.tk:5244",
-        "startPage": "",
-        "search": false,
-        "headers": null,
-        "params": null,
-        "isActive": true,
-        "id": 42
-      },
-      {
-        "name": "🎢輕彈淺唱",
-        "server": "https://g.xiang.lol",
-        "startPage": "",
-        "search": false,
-        "headers": null,
-        "params": null,
-        "isActive": true,
-        "id": 43
-      },
-      {
-        "name": "👽ECVE",
-        "server": "https://pan.ecve.cn",
-        "startPage": "",
-        "search": false,
-        "headers": null,
-        "params": null,
-        "isActive": true,
-        "id": 44
-      },
-      {
-        "name": "🦆鴨鴨",
-        "server": "http://shicheng.wang:555/",
-        "startPage": "",
-        "search": false,
-        "headers": null,
-        "params": null,
-        "isActive": true,
-        "id": 45
-      },
-      {
-        "name": "🥌SmjcLoveC",
-        "server": "http://pan.smjc.cc",
-        "startPage": "",
-        "search": false,
-        "headers": null,
-        "params": null,
-        "isActive": true,
-        "id": 47
-      },
-      {
-        "name": "🏰‍歐逼",
-        "server": "https://alistcn.repl.co",
-        "startPage": "",
-        "search": false,
-        "headers": null,
-        "params": null,
-        "isActive": true,
-        "id": 49
-      },
-      {
-        "name": "🦟文文",
-        "server": "http://518p8g7316.goho.co:5244",
-        "startPage": "",
-        "search": false,
-        "headers": null,
-        "params": null,
-        "isActive": true,
-        "id": 50
-      },
-      {
-        "name": "🎧聽聞網盤",
-        "server": "https://wangpan.sangxuesheng.com",
-        "startPage": "",
-        "search": false,
-        "headers": null,
-        "params": null,
-        "isActive": true,
-        "id": 52
-      },
-      {
-        "name": "🌊小江",
-        "server": "https://dyj.me",
-        "startPage": "",
-        "search": false,
-        "headers": null,
-        "params": null,
-        "isActive": true,
-        "id": 53
-      },
-      {
-        "name": "微資源",
-        "server": "https://apps.weixinqqq.com/",
-        "startPage": "",
-        "search": false,
-        "headers": null,
-        "params": null,
-        "isActive": true,
-        "id": 54
-      },
-      {
-        "name": "hxft.xyz",
-        "server": "https://pan.hxft.xyz/",
-        "startPage": "",
-        "search": false,
-        "headers": null,
-        "params": null,
-        "isActive": true,
-        "id": 55
-      },
-      {
-        "name": "Arley’s Drive",
-        "server": "https://pan.arley.cn/",
-        "startPage": "",
-        "search": false,
-        "headers": null,
-        "params": null,
-        "isActive": true,
-        "id": 56
-      },
-      {
-        "name": "隨意盤",
-        "server": "https://apps.weixinqqq.com/",
-        "startPage": "",
-        "search": false,
-        "headers": null,
-        "params": null,
-        "isActive": true,
-        "id": 57
-      },
-      {
-        "name": "azad個人雲盤",
-        "server": "https://alist.azad.asia/",
-        "startPage": "",
-        "search": false,
-        "headers": null,
-        "params": null,
-        "isActive": true,
-        "id": 58
-      },
-      {
-        "name": "梓澪",
-        "server": "https://zi0.cc",
-        "startPage": "",
-        "search": false,
-        "headers": null,
-        "params": null,
-        "isActive": true,
-        "id": 59
-      },
-      {
-        "name": "金聚全",
-        "server": "https://jcy012.cpolar.cn/",
-        "startPage": "",
-        "search": false,
-        "headers": null,
-        "params": null,
-        "isActive": true,
-        "id": 60
-      },
-      {
-        "name": "姿勢網盤",
-        "server": "https://cloud.zsxwz.com/",
-        "startPage": "",
-        "search": false,
-        "headers": null,
-        "params": null,
-        "isActive": true,
-        "id": 61
-      },
-      {
-        "name": "路燈",
-        "server": "https://pan.eqishare.com/",
-        "startPage": "",
-        "search": false,
-        "headers": null,
-        "params": null,
-        "isActive": true,
-        "id": 62
-      },
-      {
-        "name": "arley",
-        "server": "https://pan.arley.cn/zh-CN/",
-        "startPage": "",
-        "search": false,
-        "headers": null,
-        "params": null,
-        "isActive": true,
-        "id": 63
-      },
-      {
-        "name": "電喵大戰皮卡丘",
-        "server": "https://pan.110014.xyz/",
-        "startPage": "",
-        "search": false,
-        "headers": null,
-        "params": null,
-        "isActive": true,
-        "id": 64
-      },
-      {
-        "name": "合集",
-        "server": "http://cyyn.top:5255/",
-        "startPage": "",
-        "search": false,
-        "headers": null,
-        "params": null,
-        "isActive": true,
-        "id": 65
-      },
-      {
-        "name": "函樹",
-        "server": "https://alist.echs.top/",
-        "startPage": "",
-        "search": false,
-        "headers": null,
-        "params": null,
-        "isActive": true,
-        "id": 66
-      },
-      {
-        "name": "追番",
-        "server": "https://zhuifan.link",
-        "startPage": "",
-        "search": false,
-        "headers": null,
-        "params": null,
-        "isActive": true,
-        "id": 67
-      },
-      {
-        "name": "sodaz",
-        "server": "https://a.sodaz.xyz/",
-        "startPage": "",
-        "search": false,
-        "headers": null,
-        "params": null,
-        "isActive": true,
-        "id": 68
-      },
-      {
-        "name": "小新盤",
-        "server": "https://pan.cdnxin.top/",
-        "startPage": "",
-        "search": false,
-        "headers": null,
-        "params": null,
-        "isActive": true,
-        "id": 69
-      },
-      {
-        "name": "目瞪口呆",
-        "server": "https://pan.mdgd.cc/",
-        "startPage": "",
-        "search": false,
-        "headers": null,
-        "params": null,
-        "isActive": true,
-        "id": 70
-      },
-      {
-        "name": "皓星繁天",
-        "server": "https://pan.hxft.xyz/",
-        "startPage": "",
-        "search": false,
-        "headers": null,
-        "params": null,
-        "isActive": true,
-        "id": 71
-      },
-      {
-        "name": "ECVE",
-        "server": "https://pan.ecve.cn/",
-        "startPage": "",
-        "search": false,
-        "headers": null,
-        "params": null,
-        "isActive": true,
-        "id": 72
-      },
-      {
-        "name": "羅漢果AV",
-        "server": "http://我艹.退学.com:55153",
-        "startPage": "",
-        "search": false,
-        "headers": null,
-        "params": null,
-        "isActive": true,
-        "id": 73
-      },
-      {
-        "name": "雲影廳",
-        "server": "https://libilibi.eu.org",
-        "startPage": "",
-        "search": false,
-        "headers": null,
-        "params": null,
-        "isActive": true,
-        "id": 74
-      },
-      {
-        "name": "薄荷網盤",
-        "server": "https://alist.6bohe.com/",
-        "startPage": "",
-        "search": false,
-        "headers": null,
-        "params": null,
-        "isActive": true,
-        "id": 75
-      },
-      {
-        "name": "灰機場",
-        "server": "https://www.anscc.net/",
-        "startPage": "",
-        "search": false,
-        "headers": null,
-        "params": null,
-        "isActive": true,
-        "id": 76
-      },
-      {
-        "name": "心動資源",
-        "server": "https://app.applehub.cn/",
-        "startPage": "",
-        "search": false,
-        "headers": null,
-        "params": null,
-        "isActive": true,
-        "id": 77
-      },
-      {
-        "name": "鵬程資源",
-        "server": "https://pan.pengcheng.team/",
-        "startPage": "",
-        "search": false,
-        "headers": null,
-        "params": null,
-        "isActive": true,
-        "id": 78
-      },
-      {
-        "name": "久違資源",
-        "server": "https://pan.jweiy.cn/",
-        "startPage": "",
-        "search": false,
-        "headers": null,
-        "params": null,
-        "isActive": true,
-        "id": 79
-      },
-      {
-        "name": "一樓沒太陽",
-        "server": "https://pan.ylmty.cc/",
-        "startPage": "",
-        "search": false,
-        "headers": null,
-        "params": null,
-        "isActive": true,
-        "id": 80
-      },
-      {
-        "name": "登拜科技",
-        "server": "https://wp.ioshh.com/",
-        "startPage": "",
-        "search": false,
-        "headers": null,
-        "params": null,
-        "isActive": true,
-        "id": 81
-      },
-      {
-        "name": "星夢資源",
-        "server": "https://pan.bashroot.top",
-        "startPage": "",
-        "search": false,
-        "headers": null,
-        "params": null,
-        "isActive": true,
-        "id": 82
-      }
-    ]
+  {
+    "name": "奈斯资源",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "http://123.129.230.58:3388",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "zy_4",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "U酷资源",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://api.ukuapi.com",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "zy_5",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "360资源",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://360zy.com",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "zy_6",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "黑木耳资源",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://json.heimuer.tv",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "zy_7",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "鸭鸭资源",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://cj.yayazy.net",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "zy_8",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "牛牛资源",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://api.niuniuzy.me",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "zy_9",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "OK资源",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://api.okzy.org",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "zy_10",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "觅知",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://www.zbfmw.com",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "zy_11",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "淘片资源",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://taopianapi.com",
+      "path": "/cjapi/mc10/vod/json.html"
+    },
+    "id": "zy_12",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "华为吧",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://huawei8.live",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "zy_13",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "鱼乐资源",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://104.161.22.124",
+      "path": "/api.php/provide/vod"
+    },
+    "id": "zy_14",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "索尼资源",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://suoniapi.com",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "zy_15",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "豪华资源",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://hhzyapi.com",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "zy_16",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "速博资源",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://subocaiji.com",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "zy_17",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "虎牙资源",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://www.huyaapi.com",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "zy_18",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "魔都资源",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://www.moduzy.com",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "zy_19",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "最大资源",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://api.zuidapi.com",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "zy_20",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "暴风资源",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://bfzyapi.com",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "zy_21",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "快看资源",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://kuaikan-api.com",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "zy_22",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "CK资源",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://ckzy.me",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "zy_23",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "极速资源",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://jszyapi.com",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "zy_24",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "火狐资源",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://hhzyapi.com",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "zy_25",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "金鹰资源",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://jyzyapi.com",
+      "path": "/provide/vod/"
+    },
+    "id": "zy_26",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "爱坤资源",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://ikunzyapi.com",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "zy_27",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "非凡资源",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "http://cj.ffzyapi.com",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "zy_28",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "1080资源库",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://api.1080zyku.com",
+      "path": "/inc/apijson.php"
+    },
+    "id": "zy_29",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "快车资源",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://caiji.kczyapi.com",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "zy_30",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "量子资源",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "http://cj.lziapi.com",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "zy_31",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "卧龙资源",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://collect.wolongzyw.com",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "zy_32",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "红牛资源",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://www.hongniuzy2.com",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "zy_33",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "樱花资源",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://m3u8.apiyhzy.com",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "zy_34",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "易看资源",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://api.yikanapi.com",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "zy_35",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "闪电资源",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://sdzyapi.com",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "zy_36",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "飞速资源",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://www.feisuzy.com",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "zy_37",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "光速资源",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://api.guangsuapi.com",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "zy_38",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "新浪资源",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "http://api.xinlangapi.com",
+      "path": "/xinlangapi.php/provide/vod/"
+    },
+    "id": "zy_39",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "八戒资源",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "http://cj.bajiecaiji.com",
+      "path": "/inc/apijson_vod.php"
+    },
+    "id": "zy_40",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "百度资源",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://api.apibdzy.com",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "zy_41",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "无尽资源",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://api.wujinapi.net",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "zy_42",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "天空资源",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://api.tiankongapi.com",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "zy_43",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "天堂资源",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://tiantangapi.com",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "zy_44",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "影图",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://cj.vodimg.top",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "zy_45",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "天翼影视",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://www.911ysw.top",
+      "path": "/tianyi.php/provide/vod/"
+    },
+    "id": "zy_46",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "39影视",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://www.394tv.com",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "zy_47",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "飘零影院",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://p2100.net",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "zy_48",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "票厂影视",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "http://101.43.119.105:88",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "zy_49",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "雨落影视",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "http://dsakf23665.com",
+      "path": "/api.php/provide/vod"
+    },
+    "id": "zy_50",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "155资源",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://155api.com",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "zy_51",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "优优资源",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://jk1.yycmszywapi.cc",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "zy_52",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "色色虎",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://apisesehuzy.com",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "zy_53",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "阿里BB仓库",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://bbckzy8.cc",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "zy_54",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "精品X",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://www.jingpinx.com",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "zy_55",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "搞起资源",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://caiji.gqjiexi.com",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "zy_56",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "资源首发",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "http://45.58.178.99",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "zy_57",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "麻豆资源",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://c.mdvod.cc",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "zy_58",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "黄瓜资源1",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://www.zy018.com",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "zy_59",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "黄瓜资源2",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://www.avre04.com",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "zy_60",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "花都影视",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://hdys2.com",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "zy_61",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "萝莉资源",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://192.151.223.213",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "zy_62",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "七天",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://8day.icu",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "zy_63",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "湿乐园",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://xxavs.com",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "zy_64",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "优异资源",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://a.uezy.pw",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "zy_65",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "SEAJAV",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://seajav.com",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "zy_66",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "精品葡萄",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://caiji.putaozyw.net",
+      "path": "/inc/apijson_vod.php"
+    },
+    "id": "zy_67",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "老色逼资源",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://apilsbzy1.com",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "zy_68",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "橘猫资源(丝袜)",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://to.to-long.com",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "zy_69",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "丝袜资源",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://www.siwazyw.tv",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "zy_70",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "探探资源",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://apittzy.com",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "zy_71",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "色猫资源",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://caiji.semaozy.net",
+      "path": "/inc/apijson_vod.php"
+    },
+    "id": "zy_72",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "皇冠资源",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://bb.hgzy18.com",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "zy_73",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "滴滴资源",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://api.ddapi.cc",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "zy_74",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "雪豹资源",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://api.xbapi.cc",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "zy_75",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "森林资源",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://slapibf.com",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "zy_76",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "玉兔资源",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://apiyutu.com",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "zy_77",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "草榴资源",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://www.caoliuzyw.com",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "zy_78",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "老鸨资源",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "http://laobaozy.com",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "zy_79",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "老鸭资源",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://api.apilyzy.com",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "zy_80",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "鸡坤资源",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://jkunzyapi.com",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "zy_81",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "奶香香资源",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://naixxzy.com",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "zy_82",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "奥斯卡资源",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://aosikazy.com",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "zy_83",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "色南国资源",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://api.sexnguon.com",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "zy_84",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "越南资源",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://vnzyz.com",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "zy_85",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "91麻豆",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://91md.me",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "zy_86",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "美少女资源",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://www.msnii.com",
+      "path": "/api/json.php"
+    },
+    "id": "zy_87",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "淫水机资源",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://www.xrbsp.com",
+      "path": "/api/json.php"
+    },
+    "id": "zy_88",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "香奶儿资源",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://www.gdlsp.com",
+      "path": "/api/json.php"
+    },
+    "id": "zy_89",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "白嫖资源",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://www.kxgav.com",
+      "path": "/api/json.php"
+    },
+    "id": "zy_90",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "小湿妹资源",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://www.afasu.com",
+      "path": "/api/json.php"
+    },
+    "id": "zy_91",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "黄AV资源",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://www.pgxdy.com",
+      "path": "/api/json.php"
+    },
+    "id": "zy_92",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "大地资源",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://dadiapi.com",
+      "path": "/api.php"
+    },
+    "id": "zy_93",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "辣椒资源",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://apilj.com",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "zy_94",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "乐播资源",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://lbapi9.com",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "zy_95",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "富二代资源",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "http://f2dcj6.com",
+      "path": "/sapi"
+    },
+    "id": "zy_96",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "利来资源",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "http://llzxcj.com",
+      "path": "/inc/sck.php"
+    },
+    "id": "zy_97",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "番号资源",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "http://fhapi9.com",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "zy_98",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "鲨鱼资源",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://shayuapi.com",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "zy_99",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "KK写真资源",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://kkzy.me",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "zy_100",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "色屌丝资源",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "http://sdszyapi.com",
+      "path": "/cjapi/mc10/vod/json.html"
+    },
+    "id": "zy_101",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "小姐姐资源",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://xjjzyapi.com",
+      "path": "/cjapi/mc10/vod/json.html"
+    },
+    "id": "zy_102",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "52AVAV",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://52zyapi.com",
+      "path": "/cjapi/mc10/vod/json.html"
+    },
+    "id": "zy_103",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "我要啪啪",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "http://www.caiji21.com",
+      "path": "/cjapi/mc10/vod/json.html"
+    },
+    "id": "zy_104",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "AV集中淫",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://www.caiji22.com",
+      "path": "/cjapi/mc10/vod/json.html"
+    },
+    "id": "zy_105",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "夜夜撸资源",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://www.caiji23.com",
+      "path": "/cjapi/mc10/vod/json.html"
+    },
+    "id": "zy_106",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "大屌丝资源",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "http://www.caiji24.com",
+      "path": "/cjapi/mc10/vod/json.html"
+    },
+    "id": "zy_107",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "咪咪资源",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "http://www.caiji25.com",
+      "path": "/cjapi/mc10/vod/json.html"
+    },
+    "id": "zy_108",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "鲍鱼AV",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "http://caiji26.com",
+      "path": "/cjapi/mc10/vod/json.html"
+    },
+    "id": "zy_109",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "精工厂资源",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://jgczyapi.com",
+      "path": "/cjapi/mc10/vod/json.html"
+    },
+    "id": "zy_110",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "点点娱乐",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://xx55zyapi.com",
+      "path": "/cjapi/mc10/vod/json.html"
+    },
+    "id": "zy_111",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "大MM资源",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://www.dmmapi.com",
+      "path": "/cjapi/mc10/vod/json.html"
+    },
+    "id": "zy_112",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "老司鸡资源",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://www.lsjapi.com",
+      "path": "/cjapi/mc10/vod/json.html"
+    },
+    "id": "zy_113",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "黄瓜TV资源",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://www.caiji10.com",
+      "path": "/cjapi/mc10/vod/json.html"
+    },
+    "id": "zy_114",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "快播盒子资源",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://www.caiji09.com",
+      "path": "/cjapi/mc10/vod/json.html"
+    },
+    "id": "zy_115",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "大香蕉资源",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://www.caiji08.com",
+      "path": "/cjapi/mc10/vod/json.html"
+    },
+    "id": "zy_116",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "日本AV在线",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://www.caiji07.com",
+      "path": "/cjapi/mc10/vod/json.html"
+    },
+    "id": "zy_117",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "青青草视频",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://www.caiji05.com",
+      "path": "/cjapi/mc10/vod/json.html"
+    },
+    "id": "zy_118",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "麻豆视频",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://www.caiji04.com",
+      "path": "/cjapi/mc10/vod/json.html"
+    },
+    "id": "zy_119",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "一本道资源",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://www.caiji03.com",
+      "path": "/cjapi/mc10/vod/json.html"
+    },
+    "id": "zy_120",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "草榴视频",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://www.caiji02.com",
+      "path": "/cjapi/mc10/vod/json.html"
+    },
+    "id": "zy_121",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "亚洲成人在线",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://www.caiji01.com",
+      "path": "/cjapi/mc10/vod/json.html"
+    },
+    "id": "zy_122",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "99资源",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "http://99zy.pw",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "zy_123",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "速度资源",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "http://www.ggmmzy.com:9999",
+      "path": "/inc/xml"
+    },
+    "id": "zy_124",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "91视频",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://91av.cyou",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "zy_125",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "博天堂",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "http://bttcj.com",
+      "path": "/inc/sapi.php"
+    },
+    "id": "zy_126",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "环亚资源",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "http://hysscj.com",
+      "path": "/inc/sapi.php"
+    },
+    "id": "zy_127",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "好色资源",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://haosezyw.com",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "zy_128",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "久爱",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "http://92free.icu",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "zy_129",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "麻豆视频",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "http://www.madouse.la",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "zy_130",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "蜜桃视频",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://mtav.art",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "zy_131",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "色资源",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://sezy.website",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "zy_132",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "天美AV",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://tmav.art",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "zy_133",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "QQ传媒",
+    "logo": "",
+    "desc": "由zy.json轉換｜zh-TW",
+    "nsfw": false,
+    "api": {
+      "root": "https://qqcm.sbs",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "zy_134",
+    "status": true,
+    "jiexiUrl": null
   }
-}
+]
