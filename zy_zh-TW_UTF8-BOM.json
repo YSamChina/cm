@@ -1,1743 +1,1208 @@
+[
   {
-    "name": "TIMI",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://vipcj.timizy.top",
-      "path": "/api.php/provide/vod/"
-    },
     "id": "zy_1",
-    "status": true,
-    "jiexiUrl": null
+    "name": "TIMI",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://vipcj.timizy.top/api.php/provide/vod/"
   },
   {
-    "name": "小猫咪",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://zy.xiaomaomi.tv",
-      "path": "/api.php/provide/vod/"
-    },
     "id": "zy_2",
-    "status": true,
-    "jiexiUrl": null
+    "name": "小貓咪",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://zy.xiaomaomi.tv/api.php/provide/vod/"
   },
   {
-    "name": "海洋资源",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://www.seacms.org",
-      "path": "/zyapi.php"
-    },
     "id": "zy_3",
-    "status": true,
-    "jiexiUrl": null
+    "name": "海洋資源",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://www.seacms.org/zyapi.php"
   },
   {
-    "name": "奈斯资源",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "http://123.129.230.58:3388",
-      "path": "/api.php/provide/vod/"
-    },
     "id": "zy_4",
-    "status": true,
-    "jiexiUrl": null
+    "name": "奈斯資源",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "http://123.129.230.58:3388/api.php/provide/vod/"
   },
   {
-    "name": "U酷资源",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://api.ukuapi.com",
-      "path": "/api.php/provide/vod/"
-    },
     "id": "zy_5",
-    "status": true,
-    "jiexiUrl": null
+    "name": "U酷資源",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://api.ukuapi.com/api.php/provide/vod/"
   },
   {
-    "name": "360资源",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://360zy.com",
-      "path": "/api.php/provide/vod/"
-    },
     "id": "zy_6",
-    "status": true,
-    "jiexiUrl": null
+    "name": "360資源",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://360zy.com/api.php/provide/vod/"
   },
   {
-    "name": "黑木耳资源",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://json.heimuer.tv",
-      "path": "/api.php/provide/vod/"
-    },
     "id": "zy_7",
-    "status": true,
-    "jiexiUrl": null
+    "name": "黑木耳資源",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://json.heimuer.tv/api.php/provide/vod/"
   },
   {
-    "name": "鸭鸭资源",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://cj.yayazy.net",
-      "path": "/api.php/provide/vod/"
-    },
     "id": "zy_8",
-    "status": true,
-    "jiexiUrl": null
+    "name": "鴨鴨資源",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://cj.yayazy.net/api.php/provide/vod/"
   },
   {
-    "name": "牛牛资源",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://api.niuniuzy.me",
-      "path": "/api.php/provide/vod/"
-    },
     "id": "zy_9",
-    "status": true,
-    "jiexiUrl": null
+    "name": "牛牛資源",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://api.niuniuzy.me/api.php/provide/vod/"
   },
   {
-    "name": "OK资源",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://api.okzy.org",
-      "path": "/api.php/provide/vod/"
-    },
     "id": "zy_10",
-    "status": true,
-    "jiexiUrl": null
+    "name": "OK資源",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://api.okzy.org/api.php/provide/vod/"
   },
   {
-    "name": "觅知",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://www.zbfmw.com",
-      "path": "/api.php/provide/vod/"
-    },
     "id": "zy_11",
-    "status": true,
-    "jiexiUrl": null
+    "name": "覓知",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://www.zbfmw.com/api.php/provide/vod/"
   },
   {
-    "name": "淘片资源",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://taopianapi.com",
-      "path": "/cjapi/mc10/vod/json.html"
-    },
     "id": "zy_12",
-    "status": true,
-    "jiexiUrl": null
+    "name": "淘片資源",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://taopianapi.com/cjapi/mc10/vod/json.html"
   },
   {
-    "name": "华为吧",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://huawei8.live",
-      "path": "/api.php/provide/vod/"
-    },
     "id": "zy_13",
-    "status": true,
-    "jiexiUrl": null
+    "name": "華為吧",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://huawei8.live/api.php/provide/vod/"
   },
   {
-    "name": "鱼乐资源",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://104.161.22.124",
-      "path": "/api.php/provide/vod"
-    },
     "id": "zy_14",
-    "status": true,
-    "jiexiUrl": null
+    "name": "魚樂資源",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://104.161.22.124/api.php/provide/vod"
   },
   {
-    "name": "索尼资源",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://suoniapi.com",
-      "path": "/api.php/provide/vod/"
-    },
     "id": "zy_15",
-    "status": true,
-    "jiexiUrl": null
+    "name": "索尼資源",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://suoniapi.com/api.php/provide/vod/"
   },
   {
-    "name": "豪华资源",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://hhzyapi.com",
-      "path": "/api.php/provide/vod/"
-    },
     "id": "zy_16",
-    "status": true,
-    "jiexiUrl": null
+    "name": "豪華資源",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://hhzyapi.com/api.php/provide/vod/"
   },
   {
-    "name": "速博资源",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://subocaiji.com",
-      "path": "/api.php/provide/vod/"
-    },
     "id": "zy_17",
-    "status": true,
-    "jiexiUrl": null
+    "name": "速博資源",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://subocaiji.com/api.php/provide/vod/"
   },
   {
-    "name": "虎牙资源",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://www.huyaapi.com",
-      "path": "/api.php/provide/vod/"
-    },
     "id": "zy_18",
-    "status": true,
-    "jiexiUrl": null
+    "name": "虎牙資源",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://www.huyaapi.com/api.php/provide/vod/"
   },
   {
-    "name": "魔都资源",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://www.moduzy.com",
-      "path": "/api.php/provide/vod/"
-    },
     "id": "zy_19",
-    "status": true,
-    "jiexiUrl": null
+    "name": "魔都資源",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://www.moduzy.com/api.php/provide/vod/"
   },
   {
-    "name": "最大资源",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://api.zuidapi.com",
-      "path": "/api.php/provide/vod/"
-    },
     "id": "zy_20",
-    "status": true,
-    "jiexiUrl": null
+    "name": "最大資源",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://api.zuidapi.com/api.php/provide/vod/"
   },
   {
-    "name": "暴风资源",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://bfzyapi.com",
-      "path": "/api.php/provide/vod/"
-    },
     "id": "zy_21",
-    "status": true,
-    "jiexiUrl": null
+    "name": "暴風資源",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://bfzyapi.com/api.php/provide/vod/"
   },
   {
-    "name": "快看资源",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://kuaikan-api.com",
-      "path": "/api.php/provide/vod/"
-    },
     "id": "zy_22",
-    "status": true,
-    "jiexiUrl": null
+    "name": "快看資源",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://kuaikan-api.com/api.php/provide/vod/"
   },
   {
-    "name": "CK资源",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://ckzy.me",
-      "path": "/api.php/provide/vod/"
-    },
     "id": "zy_23",
-    "status": true,
-    "jiexiUrl": null
+    "name": "CK資源",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://ckzy.me/api.php/provide/vod/"
   },
   {
-    "name": "极速资源",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://jszyapi.com",
-      "path": "/api.php/provide/vod/"
-    },
     "id": "zy_24",
-    "status": true,
-    "jiexiUrl": null
+    "name": "極速資源",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://jszyapi.com/api.php/provide/vod/"
   },
   {
-    "name": "火狐资源",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://hhzyapi.com",
-      "path": "/api.php/provide/vod/"
-    },
     "id": "zy_25",
-    "status": true,
-    "jiexiUrl": null
+    "name": "火狐資源",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://hhzyapi.com/api.php/provide/vod/"
   },
   {
-    "name": "金鹰资源",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://jyzyapi.com",
-      "path": "/provide/vod/"
-    },
     "id": "zy_26",
-    "status": true,
-    "jiexiUrl": null
+    "name": "金鷹資源",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://jyzyapi.com/provide/vod/"
   },
   {
-    "name": "爱坤资源",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://ikunzyapi.com",
-      "path": "/api.php/provide/vod/"
-    },
     "id": "zy_27",
-    "status": true,
-    "jiexiUrl": null
+    "name": "愛坤資源",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://ikunzyapi.com/api.php/provide/vod/"
   },
   {
-    "name": "非凡资源",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "http://cj.ffzyapi.com",
-      "path": "/api.php/provide/vod/"
-    },
     "id": "zy_28",
-    "status": true,
-    "jiexiUrl": null
+    "name": "非凡資源",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "http://cj.ffzyapi.com/api.php/provide/vod/"
   },
   {
-    "name": "1080资源库",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://api.1080zyku.com",
-      "path": "/inc/apijson.php"
-    },
     "id": "zy_29",
-    "status": true,
-    "jiexiUrl": null
+    "name": "1080資源庫",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://api.1080zyku.com/inc/apijson.php"
   },
   {
-    "name": "快车资源",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://caiji.kczyapi.com",
-      "path": "/api.php/provide/vod/"
-    },
     "id": "zy_30",
-    "status": true,
-    "jiexiUrl": null
+    "name": "快車資源",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://caiji.kczyapi.com/api.php/provide/vod/"
   },
   {
-    "name": "量子资源",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "http://cj.lziapi.com",
-      "path": "/api.php/provide/vod/"
-    },
     "id": "zy_31",
-    "status": true,
-    "jiexiUrl": null
+    "name": "量子資源",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "http://cj.lziapi.com/api.php/provide/vod/"
   },
   {
-    "name": "卧龙资源",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://collect.wolongzyw.com",
-      "path": "/api.php/provide/vod/"
-    },
     "id": "zy_32",
-    "status": true,
-    "jiexiUrl": null
+    "name": "臥龍資源",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://collect.wolongzyw.com/api.php/provide/vod/"
   },
   {
-    "name": "红牛资源",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://www.hongniuzy2.com",
-      "path": "/api.php/provide/vod/"
-    },
     "id": "zy_33",
-    "status": true,
-    "jiexiUrl": null
+    "name": "紅牛資源",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://www.hongniuzy2.com/api.php/provide/vod/"
   },
   {
-    "name": "樱花资源",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://m3u8.apiyhzy.com",
-      "path": "/api.php/provide/vod/"
-    },
     "id": "zy_34",
-    "status": true,
-    "jiexiUrl": null
+    "name": "櫻花資源",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/"
   },
   {
-    "name": "易看资源",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://api.yikanapi.com",
-      "path": "/api.php/provide/vod/"
-    },
     "id": "zy_35",
-    "status": true,
-    "jiexiUrl": null
+    "name": "易看資源",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://api.yikanapi.com/api.php/provide/vod/"
   },
   {
-    "name": "闪电资源",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://sdzyapi.com",
-      "path": "/api.php/provide/vod/"
-    },
     "id": "zy_36",
-    "status": true,
-    "jiexiUrl": null
+    "name": "閃電資源",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://sdzyapi.com/api.php/provide/vod/"
   },
   {
-    "name": "飞速资源",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://www.feisuzy.com",
-      "path": "/api.php/provide/vod/"
-    },
     "id": "zy_37",
-    "status": true,
-    "jiexiUrl": null
+    "name": "飛速資源",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://www.feisuzy.com/api.php/provide/vod/"
   },
   {
-    "name": "光速资源",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://api.guangsuapi.com",
-      "path": "/api.php/provide/vod/"
-    },
     "id": "zy_38",
-    "status": true,
-    "jiexiUrl": null
+    "name": "光速資源",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://api.guangsuapi.com/api.php/provide/vod/"
   },
   {
-    "name": "新浪资源",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "http://api.xinlangapi.com",
-      "path": "/xinlangapi.php/provide/vod/"
-    },
     "id": "zy_39",
-    "status": true,
-    "jiexiUrl": null
+    "name": "新浪資源",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "http://api.xinlangapi.com/xinlangapi.php/provide/vod/"
   },
   {
-    "name": "八戒资源",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "http://cj.bajiecaiji.com",
-      "path": "/inc/apijson_vod.php"
-    },
     "id": "zy_40",
-    "status": true,
-    "jiexiUrl": null
+    "name": "八戒資源",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "http://cj.bajiecaiji.com/inc/apijson_vod.php"
   },
   {
-    "name": "百度资源",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://api.apibdzy.com",
-      "path": "/api.php/provide/vod/"
-    },
     "id": "zy_41",
-    "status": true,
-    "jiexiUrl": null
+    "name": "百度資源",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://api.apibdzy.com/api.php/provide/vod/"
   },
   {
-    "name": "无尽资源",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://api.wujinapi.net",
-      "path": "/api.php/provide/vod/"
-    },
     "id": "zy_42",
-    "status": true,
-    "jiexiUrl": null
+    "name": "無盡資源",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://api.wujinapi.net/api.php/provide/vod/"
   },
   {
-    "name": "天空资源",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://api.tiankongapi.com",
-      "path": "/api.php/provide/vod/"
-    },
     "id": "zy_43",
-    "status": true,
-    "jiexiUrl": null
+    "name": "天空資源",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://api.tiankongapi.com/api.php/provide/vod/"
   },
   {
-    "name": "天堂资源",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://tiantangapi.com",
-      "path": "/api.php/provide/vod/"
-    },
     "id": "zy_44",
-    "status": true,
-    "jiexiUrl": null
+    "name": "天堂資源",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://tiantangapi.com/api.php/provide/vod/"
   },
   {
-    "name": "影图",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://cj.vodimg.top",
-      "path": "/api.php/provide/vod/"
-    },
     "id": "zy_45",
-    "status": true,
-    "jiexiUrl": null
+    "name": "影圖",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://cj.vodimg.top/api.php/provide/vod/"
   },
   {
-    "name": "天翼影视",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://www.911ysw.top",
-      "path": "/tianyi.php/provide/vod/"
-    },
     "id": "zy_46",
-    "status": true,
-    "jiexiUrl": null
+    "name": "天翼影視",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://www.911ysw.top/tianyi.php/provide/vod/"
   },
   {
-    "name": "39影视",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://www.394tv.com",
-      "path": "/api.php/provide/vod/"
-    },
     "id": "zy_47",
-    "status": true,
-    "jiexiUrl": null
+    "name": "39影視",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://www.394tv.com/api.php/provide/vod/"
   },
   {
-    "name": "飘零影院",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://p2100.net",
-      "path": "/api.php/provide/vod/"
-    },
     "id": "zy_48",
-    "status": true,
-    "jiexiUrl": null
+    "name": "飄零影院",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://p2100.net/api.php/provide/vod/"
   },
   {
-    "name": "票厂影视",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "http://101.43.119.105:88",
-      "path": "/api.php/provide/vod/"
-    },
     "id": "zy_49",
-    "status": true,
-    "jiexiUrl": null
+    "name": "票廠影視",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "http://101.43.119.105:88/api.php/provide/vod/"
   },
   {
-    "name": "雨落影视",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "http://dsakf23665.com",
-      "path": "/api.php/provide/vod"
-    },
     "id": "zy_50",
-    "status": true,
-    "jiexiUrl": null
+    "name": "雨落影視",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "http://dsakf23665.com/api.php/provide/vod"
   },
   {
-    "name": "155资源",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://155api.com",
-      "path": "/api.php/provide/vod/"
-    },
     "id": "zy_51",
-    "status": true,
-    "jiexiUrl": null
+    "name": "155資源",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://155api.com/api.php/provide/vod/"
   },
   {
-    "name": "优优资源",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://jk1.yycmszywapi.cc",
-      "path": "/api.php/provide/vod/"
-    },
     "id": "zy_52",
-    "status": true,
-    "jiexiUrl": null
+    "name": "優優資源",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://jk1.yycmszywapi.cc/api.php/provide/vod/"
   },
   {
-    "name": "色色虎",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://apisesehuzy.com",
-      "path": "/api.php/provide/vod/"
-    },
     "id": "zy_53",
-    "status": true,
-    "jiexiUrl": null
+    "name": "色色虎",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://apisesehuzy.com/api.php/provide/vod/"
   },
   {
-    "name": "阿里BB仓库",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://bbckzy8.cc",
-      "path": "/api.php/provide/vod/"
-    },
     "id": "zy_54",
-    "status": true,
-    "jiexiUrl": null
+    "name": "阿里BB倉庫",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://bbckzy8.cc/api.php/provide/vod/"
   },
   {
-    "name": "精品X",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://www.jingpinx.com",
-      "path": "/api.php/provide/vod/"
-    },
     "id": "zy_55",
-    "status": true,
-    "jiexiUrl": null
+    "name": "精品X",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://www.jingpinx.com/api.php/provide/vod/"
   },
   {
-    "name": "搞起资源",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://caiji.gqjiexi.com",
-      "path": "/api.php/provide/vod/"
-    },
     "id": "zy_56",
-    "status": true,
-    "jiexiUrl": null
+    "name": "搞起資源",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://caiji.gqjiexi.com/api.php/provide/vod/"
   },
   {
-    "name": "资源首发",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "http://45.58.178.99",
-      "path": "/api.php/provide/vod/"
-    },
     "id": "zy_57",
-    "status": true,
-    "jiexiUrl": null
+    "name": "資源首發",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "http://45.58.178.99/api.php/provide/vod/"
   },
   {
-    "name": "麻豆资源",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://c.mdvod.cc",
-      "path": "/api.php/provide/vod/"
-    },
     "id": "zy_58",
-    "status": true,
-    "jiexiUrl": null
+    "name": "麻豆資源",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://c.mdvod.cc/api.php/provide/vod/"
   },
   {
-    "name": "黄瓜资源1",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://www.zy018.com",
-      "path": "/api.php/provide/vod/"
-    },
     "id": "zy_59",
-    "status": true,
-    "jiexiUrl": null
+    "name": "黃瓜資源1",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://www.zy018.com/api.php/provide/vod/"
   },
   {
-    "name": "黄瓜资源2",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://www.avre04.com",
-      "path": "/api.php/provide/vod/"
-    },
     "id": "zy_60",
-    "status": true,
-    "jiexiUrl": null
+    "name": "黃瓜資源2",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://www.avre04.com/api.php/provide/vod/"
   },
   {
-    "name": "花都影视",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://hdys2.com",
-      "path": "/api.php/provide/vod/"
-    },
     "id": "zy_61",
-    "status": true,
-    "jiexiUrl": null
+    "name": "花都影視",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://hdys2.com/api.php/provide/vod/"
   },
   {
-    "name": "萝莉资源",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://192.151.223.213",
-      "path": "/api.php/provide/vod/"
-    },
     "id": "zy_62",
-    "status": true,
-    "jiexiUrl": null
+    "name": "蘿莉資源",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://192.151.223.213/api.php/provide/vod/"
   },
   {
-    "name": "七天",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://8day.icu",
-      "path": "/api.php/provide/vod/"
-    },
     "id": "zy_63",
-    "status": true,
-    "jiexiUrl": null
+    "name": "七天",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://8day.icu/api.php/provide/vod/"
   },
   {
-    "name": "湿乐园",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://xxavs.com",
-      "path": "/api.php/provide/vod/"
-    },
     "id": "zy_64",
-    "status": true,
-    "jiexiUrl": null
+    "name": "濕樂園",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://xxavs.com/api.php/provide/vod/"
   },
   {
-    "name": "优异资源",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://a.uezy.pw",
-      "path": "/api.php/provide/vod/"
-    },
     "id": "zy_65",
-    "status": true,
-    "jiexiUrl": null
+    "name": "優異資源",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://a.uezy.pw/api.php/provide/vod/"
   },
   {
-    "name": "SEAJAV",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://seajav.com",
-      "path": "/api.php/provide/vod/"
-    },
     "id": "zy_66",
-    "status": true,
-    "jiexiUrl": null
+    "name": "SEAJAV",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://seajav.com/api.php/provide/vod/"
   },
   {
-    "name": "精品葡萄",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://caiji.putaozyw.net",
-      "path": "/inc/apijson_vod.php"
-    },
     "id": "zy_67",
-    "status": true,
-    "jiexiUrl": null
+    "name": "精品葡萄",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://caiji.putaozyw.net/inc/apijson_vod.php"
   },
   {
-    "name": "老色逼资源",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://apilsbzy1.com",
-      "path": "/api.php/provide/vod/"
-    },
     "id": "zy_68",
-    "status": true,
-    "jiexiUrl": null
+    "name": "老色逼資源",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://apilsbzy1.com/api.php/provide/vod/"
   },
   {
-    "name": "橘猫资源(丝袜)",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://to.to-long.com",
-      "path": "/api.php/provide/vod/"
-    },
     "id": "zy_69",
-    "status": true,
-    "jiexiUrl": null
+    "name": "橘貓資源(絲襪)",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://to.to-long.com/api.php/provide/vod/"
   },
   {
-    "name": "丝袜资源",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://www.siwazyw.tv",
-      "path": "/api.php/provide/vod/"
-    },
     "id": "zy_70",
-    "status": true,
-    "jiexiUrl": null
+    "name": "絲襪資源",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://www.siwazyw.tv/api.php/provide/vod/"
   },
   {
-    "name": "探探资源",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://apittzy.com",
-      "path": "/api.php/provide/vod/"
-    },
     "id": "zy_71",
-    "status": true,
-    "jiexiUrl": null
+    "name": "探探資源",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://apittzy.com/api.php/provide/vod/"
   },
   {
-    "name": "色猫资源",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://caiji.semaozy.net",
-      "path": "/inc/apijson_vod.php"
-    },
     "id": "zy_72",
-    "status": true,
-    "jiexiUrl": null
+    "name": "色貓資源",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://caiji.semaozy.net/inc/apijson_vod.php"
   },
   {
-    "name": "皇冠资源",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://bb.hgzy18.com",
-      "path": "/api.php/provide/vod/"
-    },
     "id": "zy_73",
-    "status": true,
-    "jiexiUrl": null
+    "name": "皇冠資源",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://bb.hgzy18.com/api.php/provide/vod/"
   },
   {
-    "name": "滴滴资源",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://api.ddapi.cc",
-      "path": "/api.php/provide/vod/"
-    },
     "id": "zy_74",
-    "status": true,
-    "jiexiUrl": null
+    "name": "滴滴資源",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://api.ddapi.cc/api.php/provide/vod/"
   },
   {
-    "name": "雪豹资源",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://api.xbapi.cc",
-      "path": "/api.php/provide/vod/"
-    },
     "id": "zy_75",
-    "status": true,
-    "jiexiUrl": null
+    "name": "雪豹資源",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://api.xbapi.cc/api.php/provide/vod/"
   },
   {
-    "name": "森林资源",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://slapibf.com",
-      "path": "/api.php/provide/vod/"
-    },
     "id": "zy_76",
-    "status": true,
-    "jiexiUrl": null
+    "name": "森林資源",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://slapibf.com/api.php/provide/vod/"
   },
   {
-    "name": "玉兔资源",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://apiyutu.com",
-      "path": "/api.php/provide/vod/"
-    },
     "id": "zy_77",
-    "status": true,
-    "jiexiUrl": null
+    "name": "玉兔資源",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://apiyutu.com/api.php/provide/vod/"
   },
   {
-    "name": "草榴资源",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://www.caoliuzyw.com",
-      "path": "/api.php/provide/vod/"
-    },
     "id": "zy_78",
-    "status": true,
-    "jiexiUrl": null
+    "name": "草榴資源",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://www.caoliuzyw.com/api.php/provide/vod/"
   },
   {
-    "name": "老鸨资源",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "http://laobaozy.com",
-      "path": "/api.php/provide/vod/"
-    },
     "id": "zy_79",
-    "status": true,
-    "jiexiUrl": null
+    "name": "老鴇資源",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "http://laobaozy.com/api.php/provide/vod/"
   },
   {
-    "name": "老鸭资源",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://api.apilyzy.com",
-      "path": "/api.php/provide/vod/"
-    },
     "id": "zy_80",
-    "status": true,
-    "jiexiUrl": null
+    "name": "老鴨資源",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://api.apilyzy.com/api.php/provide/vod/"
   },
   {
-    "name": "鸡坤资源",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://jkunzyapi.com",
-      "path": "/api.php/provide/vod/"
-    },
     "id": "zy_81",
-    "status": true,
-    "jiexiUrl": null
+    "name": "雞坤資源",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://jkunzyapi.com/api.php/provide/vod/"
   },
   {
-    "name": "奶香香资源",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://naixxzy.com",
-      "path": "/api.php/provide/vod/"
-    },
     "id": "zy_82",
-    "status": true,
-    "jiexiUrl": null
+    "name": "奶香香資源",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://naixxzy.com/api.php/provide/vod/"
   },
   {
-    "name": "奥斯卡资源",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://aosikazy.com",
-      "path": "/api.php/provide/vod/"
-    },
     "id": "zy_83",
-    "status": true,
-    "jiexiUrl": null
+    "name": "奧斯卡資源",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://aosikazy.com/api.php/provide/vod/"
   },
   {
-    "name": "色南国资源",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://api.sexnguon.com",
-      "path": "/api.php/provide/vod/"
-    },
     "id": "zy_84",
-    "status": true,
-    "jiexiUrl": null
+    "name": "色南國資源",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://api.sexnguon.com/api.php/provide/vod/"
   },
   {
-    "name": "越南资源",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://vnzyz.com",
-      "path": "/api.php/provide/vod/"
-    },
     "id": "zy_85",
-    "status": true,
-    "jiexiUrl": null
+    "name": "越南資源",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://vnzyz.com/api.php/provide/vod/"
   },
   {
-    "name": "91麻豆",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://91md.me",
-      "path": "/api.php/provide/vod/"
-    },
     "id": "zy_86",
-    "status": true,
-    "jiexiUrl": null
+    "name": "91麻豆",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://91md.me/api.php/provide/vod/"
   },
   {
-    "name": "美少女资源",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://www.msnii.com",
-      "path": "/api/json.php"
-    },
     "id": "zy_87",
-    "status": true,
-    "jiexiUrl": null
+    "name": "美少女資源",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://www.msnii.com/api/json.php"
   },
   {
-    "name": "淫水机资源",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://www.xrbsp.com",
-      "path": "/api/json.php"
-    },
     "id": "zy_88",
-    "status": true,
-    "jiexiUrl": null
+    "name": "淫水機資源",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://www.xrbsp.com/api/json.php"
   },
   {
-    "name": "香奶儿资源",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://www.gdlsp.com",
-      "path": "/api/json.php"
-    },
     "id": "zy_89",
-    "status": true,
-    "jiexiUrl": null
+    "name": "香奶兒資源",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://www.gdlsp.com/api/json.php"
   },
   {
-    "name": "白嫖资源",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://www.kxgav.com",
-      "path": "/api/json.php"
-    },
     "id": "zy_90",
-    "status": true,
-    "jiexiUrl": null
+    "name": "白嫖資源",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://www.kxgav.com/api/json.php"
   },
   {
-    "name": "小湿妹资源",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://www.afasu.com",
-      "path": "/api/json.php"
-    },
     "id": "zy_91",
-    "status": true,
-    "jiexiUrl": null
+    "name": "小濕妹資源",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://www.afasu.com/api/json.php"
   },
   {
-    "name": "黄AV资源",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://www.pgxdy.com",
-      "path": "/api/json.php"
-    },
     "id": "zy_92",
-    "status": true,
-    "jiexiUrl": null
+    "name": "黃AV資源",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://www.pgxdy.com/api/json.php"
   },
   {
-    "name": "大地资源",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://dadiapi.com",
-      "path": "/api.php"
-    },
     "id": "zy_93",
-    "status": true,
-    "jiexiUrl": null
+    "name": "大地資源",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://dadiapi.com/api.php"
   },
   {
-    "name": "辣椒资源",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://apilj.com",
-      "path": "/api.php/provide/vod/"
-    },
     "id": "zy_94",
-    "status": true,
-    "jiexiUrl": null
+    "name": "辣椒資源",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://apilj.com/api.php/provide/vod/"
   },
   {
-    "name": "乐播资源",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://lbapi9.com",
-      "path": "/api.php/provide/vod/"
-    },
     "id": "zy_95",
-    "status": true,
-    "jiexiUrl": null
+    "name": "樂播資源",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://lbapi9.com/api.php/provide/vod/"
   },
   {
-    "name": "富二代资源",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "http://f2dcj6.com",
-      "path": "/sapi"
-    },
     "id": "zy_96",
-    "status": true,
-    "jiexiUrl": null
+    "name": "富二代資源",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "http://f2dcj6.com/sapi"
   },
   {
-    "name": "利来资源",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "http://llzxcj.com",
-      "path": "/inc/sck.php"
-    },
     "id": "zy_97",
-    "status": true,
-    "jiexiUrl": null
+    "name": "利來資源",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "http://llzxcj.com/inc/sck.php"
   },
   {
-    "name": "番号资源",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "http://fhapi9.com",
-      "path": "/api.php/provide/vod/"
-    },
     "id": "zy_98",
-    "status": true,
-    "jiexiUrl": null
+    "name": "番號資源",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "http://fhapi9.com/api.php/provide/vod/"
   },
   {
-    "name": "鲨鱼资源",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://shayuapi.com",
-      "path": "/api.php/provide/vod/"
-    },
     "id": "zy_99",
-    "status": true,
-    "jiexiUrl": null
+    "name": "鯊魚資源",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://shayuapi.com/api.php/provide/vod/"
   },
   {
-    "name": "KK写真资源",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://kkzy.me",
-      "path": "/api.php/provide/vod/"
-    },
     "id": "zy_100",
-    "status": true,
-    "jiexiUrl": null
+    "name": "KK寫真資源",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://kkzy.me/api.php/provide/vod/"
   },
   {
-    "name": "色屌丝资源",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "http://sdszyapi.com",
-      "path": "/cjapi/mc10/vod/json.html"
-    },
     "id": "zy_101",
-    "status": true,
-    "jiexiUrl": null
+    "name": "色屌絲資源",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "http://sdszyapi.com/cjapi/mc10/vod/json.html"
   },
   {
-    "name": "小姐姐资源",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://xjjzyapi.com",
-      "path": "/cjapi/mc10/vod/json.html"
-    },
     "id": "zy_102",
-    "status": true,
-    "jiexiUrl": null
+    "name": "小姐姐資源",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://xjjzyapi.com/cjapi/mc10/vod/json.html"
   },
   {
-    "name": "52AVAV",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://52zyapi.com",
-      "path": "/cjapi/mc10/vod/json.html"
-    },
     "id": "zy_103",
-    "status": true,
-    "jiexiUrl": null
+    "name": "52AVAV",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://52zyapi.com/cjapi/mc10/vod/json.html"
   },
   {
-    "name": "我要啪啪",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "http://www.caiji21.com",
-      "path": "/cjapi/mc10/vod/json.html"
-    },
     "id": "zy_104",
-    "status": true,
-    "jiexiUrl": null
+    "name": "我要啪啪",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "http://www.caiji21.com/cjapi/mc10/vod/json.html"
   },
   {
-    "name": "AV集中淫",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://www.caiji22.com",
-      "path": "/cjapi/mc10/vod/json.html"
-    },
     "id": "zy_105",
-    "status": true,
-    "jiexiUrl": null
+    "name": "AV集中淫",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://www.caiji22.com/cjapi/mc10/vod/json.html"
   },
   {
-    "name": "夜夜撸资源",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://www.caiji23.com",
-      "path": "/cjapi/mc10/vod/json.html"
-    },
     "id": "zy_106",
-    "status": true,
-    "jiexiUrl": null
+    "name": "夜夜擼資源",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://www.caiji23.com/cjapi/mc10/vod/json.html"
   },
   {
-    "name": "大屌丝资源",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "http://www.caiji24.com",
-      "path": "/cjapi/mc10/vod/json.html"
-    },
     "id": "zy_107",
-    "status": true,
-    "jiexiUrl": null
+    "name": "大屌絲資源",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "http://www.caiji24.com/cjapi/mc10/vod/json.html"
   },
   {
-    "name": "咪咪资源",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "http://www.caiji25.com",
-      "path": "/cjapi/mc10/vod/json.html"
-    },
     "id": "zy_108",
-    "status": true,
-    "jiexiUrl": null
+    "name": "咪咪資源",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "http://www.caiji25.com/cjapi/mc10/vod/json.html"
   },
   {
-    "name": "鲍鱼AV",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "http://caiji26.com",
-      "path": "/cjapi/mc10/vod/json.html"
-    },
     "id": "zy_109",
-    "status": true,
-    "jiexiUrl": null
+    "name": "鮑魚AV",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "http://caiji26.com/cjapi/mc10/vod/json.html"
   },
   {
-    "name": "精工厂资源",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://jgczyapi.com",
-      "path": "/cjapi/mc10/vod/json.html"
-    },
     "id": "zy_110",
-    "status": true,
-    "jiexiUrl": null
+    "name": "精工廠資源",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://jgczyapi.com/cjapi/mc10/vod/json.html"
   },
   {
-    "name": "点点娱乐",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://xx55zyapi.com",
-      "path": "/cjapi/mc10/vod/json.html"
-    },
     "id": "zy_111",
-    "status": true,
-    "jiexiUrl": null
+    "name": "點點娛樂",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://xx55zyapi.com/cjapi/mc10/vod/json.html"
   },
   {
-    "name": "大MM资源",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://www.dmmapi.com",
-      "path": "/cjapi/mc10/vod/json.html"
-    },
     "id": "zy_112",
-    "status": true,
-    "jiexiUrl": null
+    "name": "大MM資源",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://www.dmmapi.com/cjapi/mc10/vod/json.html"
   },
   {
-    "name": "老司鸡资源",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://www.lsjapi.com",
-      "path": "/cjapi/mc10/vod/json.html"
-    },
     "id": "zy_113",
-    "status": true,
-    "jiexiUrl": null
+    "name": "老司雞資源",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://www.lsjapi.com/cjapi/mc10/vod/json.html"
   },
   {
-    "name": "黄瓜TV资源",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://www.caiji10.com",
-      "path": "/cjapi/mc10/vod/json.html"
-    },
     "id": "zy_114",
-    "status": true,
-    "jiexiUrl": null
+    "name": "黃瓜TV資源",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://www.caiji10.com/cjapi/mc10/vod/json.html"
   },
   {
-    "name": "快播盒子资源",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://www.caiji09.com",
-      "path": "/cjapi/mc10/vod/json.html"
-    },
     "id": "zy_115",
-    "status": true,
-    "jiexiUrl": null
+    "name": "快播盒子資源",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://www.caiji09.com/cjapi/mc10/vod/json.html"
   },
   {
-    "name": "大香蕉资源",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://www.caiji08.com",
-      "path": "/cjapi/mc10/vod/json.html"
-    },
     "id": "zy_116",
-    "status": true,
-    "jiexiUrl": null
+    "name": "大香蕉資源",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://www.caiji08.com/cjapi/mc10/vod/json.html"
   },
   {
-    "name": "日本AV在线",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://www.caiji07.com",
-      "path": "/cjapi/mc10/vod/json.html"
-    },
     "id": "zy_117",
-    "status": true,
-    "jiexiUrl": null
+    "name": "日本AV在線",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://www.caiji07.com/cjapi/mc10/vod/json.html"
   },
   {
-    "name": "青青草视频",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://www.caiji05.com",
-      "path": "/cjapi/mc10/vod/json.html"
-    },
     "id": "zy_118",
-    "status": true,
-    "jiexiUrl": null
+    "name": "青青草視頻",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://www.caiji05.com/cjapi/mc10/vod/json.html"
   },
   {
-    "name": "麻豆视频",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://www.caiji04.com",
-      "path": "/cjapi/mc10/vod/json.html"
-    },
     "id": "zy_119",
-    "status": true,
-    "jiexiUrl": null
+    "name": "麻豆視頻",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://www.caiji04.com/cjapi/mc10/vod/json.html"
   },
   {
-    "name": "一本道资源",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://www.caiji03.com",
-      "path": "/cjapi/mc10/vod/json.html"
-    },
     "id": "zy_120",
-    "status": true,
-    "jiexiUrl": null
+    "name": "一本道資源",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://www.caiji03.com/cjapi/mc10/vod/json.html"
   },
   {
-    "name": "草榴视频",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://www.caiji02.com",
-      "path": "/cjapi/mc10/vod/json.html"
-    },
     "id": "zy_121",
-    "status": true,
-    "jiexiUrl": null
+    "name": "草榴視頻",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://www.caiji02.com/cjapi/mc10/vod/json.html"
   },
   {
-    "name": "亚洲成人在线",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://www.caiji01.com",
-      "path": "/cjapi/mc10/vod/json.html"
-    },
     "id": "zy_122",
-    "status": true,
-    "jiexiUrl": null
+    "name": "亞洲成人在線",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://www.caiji01.com/cjapi/mc10/vod/json.html"
   },
   {
-    "name": "99资源",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "http://99zy.pw",
-      "path": "/api.php/provide/vod/"
-    },
     "id": "zy_123",
-    "status": true,
-    "jiexiUrl": null
+    "name": "99資源",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "http://99zy.pw/api.php/provide/vod/"
   },
   {
-    "name": "速度资源",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "http://www.ggmmzy.com:9999",
-      "path": "/inc/xml"
-    },
     "id": "zy_124",
-    "status": true,
-    "jiexiUrl": null
+    "name": "速度資源",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "http://www.ggmmzy.com:9999/inc/xml"
   },
   {
-    "name": "91视频",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://91av.cyou",
-      "path": "/api.php/provide/vod/"
-    },
     "id": "zy_125",
-    "status": true,
-    "jiexiUrl": null
+    "name": "91視頻",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://91av.cyou/api.php/provide/vod/"
   },
   {
-    "name": "博天堂",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "http://bttcj.com",
-      "path": "/inc/sapi.php"
-    },
     "id": "zy_126",
-    "status": true,
-    "jiexiUrl": null
+    "name": "博天堂",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "http://bttcj.com/inc/sapi.php"
   },
   {
-    "name": "环亚资源",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "http://hysscj.com",
-      "path": "/inc/sapi.php"
-    },
     "id": "zy_127",
-    "status": true,
-    "jiexiUrl": null
+    "name": "環亞資源",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "http://hysscj.com/inc/sapi.php"
   },
   {
-    "name": "好色资源",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://haosezyw.com",
-      "path": "/api.php/provide/vod/"
-    },
     "id": "zy_128",
-    "status": true,
-    "jiexiUrl": null
+    "name": "好色資源",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://haosezyw.com/api.php/provide/vod/"
   },
   {
-    "name": "久爱",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "http://92free.icu",
-      "path": "/api.php/provide/vod/"
-    },
     "id": "zy_129",
-    "status": true,
-    "jiexiUrl": null
+    "name": "久愛",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "http://92free.icu/api.php/provide/vod/"
   },
   {
-    "name": "麻豆视频",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "http://www.madouse.la",
-      "path": "/api.php/provide/vod/"
-    },
     "id": "zy_130",
-    "status": true,
-    "jiexiUrl": null
+    "name": "麻豆視頻",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "http://www.madouse.la/api.php/provide/vod/"
   },
   {
-    "name": "蜜桃视频",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://mtav.art",
-      "path": "/api.php/provide/vod/"
-    },
     "id": "zy_131",
-    "status": true,
-    "jiexiUrl": null
+    "name": "蜜桃視頻",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://mtav.art/api.php/provide/vod/"
   },
   {
-    "name": "色资源",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://sezy.website",
-      "path": "/api.php/provide/vod/"
-    },
     "id": "zy_132",
-    "status": true,
-    "jiexiUrl": null
+    "name": "色資源",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://sezy.website/api.php/provide/vod/"
   },
   {
-    "name": "天美AV",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://tmav.art",
-      "path": "/api.php/provide/vod/"
-    },
     "id": "zy_133",
-    "status": true,
-    "jiexiUrl": null
+    "name": "天美AV",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://tmav.art/api.php/provide/vod/"
   },
   {
-    "name": "QQ传媒",
-    "logo": "",
-    "desc": "由zy.json轉換｜zh-TW",
-    "nsfw": false,
-    "api": {
-      "root": "https://qqcm.sbs",
-      "path": "/api.php/provide/vod/"
-    },
     "id": "zy_134",
-    "status": true,
-    "jiexiUrl": null
+    "name": "QQ傳媒",
+    "type": 0,
+    "logo": "",
+    "desc": "由 zy.json 轉換｜zh-TW｜小貓2.5.9",
+    "nsfw": false,
+    "api": "https://qqcm.sbs/api.php/provide/vod/"
   }
 ]
