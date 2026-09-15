@@ -1,0 +1,106 @@
+﻿[
+  {
+    "name": "包子資源",
+    "logo": "",
+    "desc": "UZ備份抽出｜第三批測試",
+    "nsfw": false,
+    "api": {
+      "root": "http://cj.baozi66.top:66",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "uztest3_baozi",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "飛速資源",
+    "logo": "",
+    "desc": "UZ備份抽出｜第三批測試",
+    "nsfw": false,
+    "api": {
+      "root": "http://fszy1.com",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "uztest3_feisu",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "小貓咪資源",
+    "logo": "",
+    "desc": "UZ備份抽出｜第三批測試",
+    "nsfw": false,
+    "api": {
+      "root": "http://zy.xiaomaomi.cc",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "uztest3_xiaomaomi",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "OK資源",
+    "logo": "",
+    "desc": "UZ備份抽出｜第三批測試",
+    "nsfw": false,
+    "api": {
+      "root": "https://api.okzyw.net",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "uztest3_ok",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "VODIMG資源",
+    "logo": "",
+    "desc": "UZ備份抽出｜第三批測試",
+    "nsfw": false,
+    "api": {
+      "root": "https://cj.vodimg.top",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "uztest3_vodimg",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "愛奇藝資源",
+    "logo": "",
+    "desc": "UZ備份抽出｜第三批測試",
+    "nsfw": false,
+    "api": {
+      "root": "https://iqiyizyapi.com",
+      "path": "/api.php/provide/vod"
+    },
+    "id": "uztest3_iqiyi",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "快看資源",
+    "logo": "",
+    "desc": "UZ備份抽出｜第三批測試",
+    "nsfw": false,
+    "api": {
+      "root": "https://kuaikan-api.com",
+      "path": "/api.php/provide/vod"
+    },
+    "id": "uztest3_kuaikan",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "39看資源",
+    "logo": "",
+    "desc": "UZ備份抽出｜第三批測試",
+    "nsfw": false,
+    "api": {
+      "root": "https://www.39kan.com",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "uztest3_39kan",
+    "status": true,
+    "jiexiUrl": null
+  }
+]
