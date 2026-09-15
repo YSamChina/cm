@@ -1,0 +1,32 @@
+﻿[
+  {
+    "id": "girigirilove_test1",
+    "name": "girigirilove 測試",
+    "api": "https://ani.girigirilove.com",
+    "nsfw": false,
+    "type": 1,
+    "logo": "",
+    "desc": "UZ girigirilove 移植到小貓2.5.9的單源測試版",
+    "extra": {
+      "gfw": false,
+      "searchLimit": 12,
+      "js": {
+        "category": [
+          {
+            "text": "日番",
+            "id": "2"
+          },
+          {
+            "text": "劇場版",
+            "id": "21"
+          }
+        ],
+        "home": "const cate=env.get(\"category\"); const page=env.get(\"page\"); const url=`${env.baseUrl}/show/${cate}--------${page}---`; const html=await (0,utils_1.req)(url); const $=utils_1.kitty.load(html); const out=[]; $(\"a\").toArray().forEach(item=>{ const a=$(item); const href=a.attr(\"href\")??\"\"; if(!/^\\/GV\\d+\\/?$/.test(href)) return; const img=a.find(\"img\"); let cover=img.attr(\"data-src\")??img.attr(\"data-original\")??img.attr(\"src\")??\"\"; if(cover.startsWith(\"//\")) cover=\"https:\"+cover; else if(cover.startsWith(\"/\")) cover=env.baseUrl+cover; const title=(a.attr(\"title\")??img.attr(\"alt\")??a.text()??\"\").trim(); if(!title) return; const remark=(a.find(\".pic-text,.remarks,.module-item-note,.video-serial\").text()??\"\").trim(); if(!out.some(x=>x.id===href)) out.push({id:href,title,cover,remark}); }); return out",
+        "search": "const wd=env.get(\"keyword\"); const page=env.get(\"page\"); const url=`${env.baseUrl}/search/${encodeURIComponent(wd)}----------${page}---`; const html=await (0,utils_1.req)(url); const $=utils_1.kitty.load(html); const out=[]; $(\"a\").toArray().forEach(item=>{ const a=$(item); const href=a.attr(\"href\")??\"\"; if(!/^\\/GV\\d+\\/?$/.test(href)) return; const img=a.find(\"img\"); let cover=img.attr(\"data-src\")??img.attr(\"data-original\")??img.attr(\"src\")??\"\"; if(cover.startsWith(\"//\")) cover=\"https:\"+cover; else if(cover.startsWith(\"/\")) cover=env.baseUrl+cover; const title=(a.attr(\"title\")??img.attr(\"alt\")??a.text()??\"\").trim(); if(!title) return; if(!out.some(x=>x.id===href)) out.push({id:href,title,cover,remark:\"\"}); }); return out",
+        "detail": "const id=env.get(\"movieId\"); const url=id.startsWith(\"http\")?id:`${env.baseUrl}${id}`; const html=await (0,utils_1.req)(url); const $=utils_1.kitty.load(html); let cover=\"\"; $(\"img\").toArray().some(item=>{ const img=$(item); const alt=(img.attr(\"alt\")??\"\").trim(); let src=img.attr(\"data-src\")??img.attr(\"data-original\")??img.attr(\"src\")??\"\"; if(!src) return false; if(src.startsWith(\"//\")) src=\"https:\"+src; else if(src.startsWith(\"/\")) src=env.baseUrl+src; if(alt && alt!==\"海报图\"){ cover=src; return true; } if(!cover) cover=src; return false; }); let desc=($(\"meta[name='description']\").attr(\"content\")??\"\").trim(); const videos=[]; $(\"a\").toArray().forEach(item=>{ const a=$(item); const href=a.attr(\"href\")??\"\"; if(!/^\\/playGV\\d+-\\d+-\\d+\\/?$/.test(href)) return; const text=(a.text()??\"\").trim()||`第${videos.length+1}集`; if(!videos.some(x=>x.id===href)) videos.push({id:href,text}); }); return {cover,desc,playlist:[{title:\"播放\",videos}]}",
+        "parseIframe": "return utils_1.kitty.utils.getM3u8WithIframe(env)"
+      },
+      "jiexiUrl": ""
+    }
+  }
+]
