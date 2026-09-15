@@ -1,0 +1,164 @@
+﻿{
+  "summary": {
+    "direct_smallcat_candidates": 7,
+    "uz_js_video_extensions": 10,
+    "excluded_non_video": [
+      "Pan_panta.txt：網盤工具，不是一般影視源",
+      "Zhi_gdstudio.txt：音樂/電台類，不列入影視源"
+    ]
+  },
+  "direct_candidates": [
+    {
+      "name": "黑木耳資源",
+      "kind": "maccms_api",
+      "smallcat": "可直接測",
+      "api": {
+        "root": "https://json.heimuer.tv",
+        "path": "/api.php/provide/vod/"
+      },
+      "note": "UZ備份舊端點為 json.heimuer.xyz；此處採較新端點"
+    },
+    {
+      "name": "快車資源",
+      "kind": "maccms_api",
+      "smallcat": "可直接測",
+      "api": {
+        "root": "https://caiji.kuaichezy.org",
+        "path": "/api.php/provide/vod"
+      },
+      "note": "UZ備份抽出，與目前 c.json 不重複"
+    },
+    {
+      "name": "臥龍資源",
+      "kind": "maccms_api",
+      "smallcat": "可直接測",
+      "api": {
+        "root": "https://wolongzyw.com",
+        "path": "/api.php/provide/vod"
+      },
+      "note": "UZ備份舊 collect.wolongzyw.com 已失效，改較新端點"
+    },
+    {
+      "name": "無水印資源",
+      "kind": "maccms_api",
+      "smallcat": "可直接測",
+      "api": {
+        "root": "https://api.wsyzy.net",
+        "path": "/api.php/provide/vod"
+      },
+      "note": "與目前 c.json 不重複"
+    },
+    {
+      "name": "旺旺資源",
+      "kind": "maccms_api",
+      "smallcat": "可直接測",
+      "api": {
+        "root": "https://api.wwzy.tv",
+        "path": "/api.php/provide/vod"
+      },
+      "note": "與目前 c.json 不重複"
+    },
+    {
+      "name": "貓眼資源",
+      "kind": "maccms_api",
+      "smallcat": "可直接測",
+      "api": {
+        "root": "https://api.maoyanapi.top",
+        "path": "/api.php/provide/vod"
+      },
+      "note": "與目前 c.json 不重複"
+    },
+    {
+      "name": "電影天堂",
+      "kind": "maccms_api",
+      "smallcat": "可直接測",
+      "api": {
+        "root": "http://caiji.dyttzyapi.com",
+        "path": "/api.php/provide/vod"
+      },
+      "note": "UZ備份舊端點改採較新端點"
+    }
+  ],
+  "js_port_candidates": [
+    {
+      "name": "girigirilove",
+      "kind": "uz_js_extension",
+      "website": "https://anime.girigirilove.com",
+      "extension": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/Xiu_girigirilove.js",
+      "smallcat": "不能直接匯入，需移植 JS 邏輯",
+      "note": "你特別指出的來源；確實存在於備份"
+    },
+    {
+      "name": "EACG",
+      "kind": "uz_js_extension",
+      "website": "https://eacg1.com",
+      "extension": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/Xiu_eacg.js",
+      "smallcat": "不能直接匯入，需移植 JS 邏輯",
+      "note": "備份同時還有 Xiu_eacg2.js"
+    },
+    {
+      "name": "EACG2",
+      "kind": "uz_js_extension",
+      "website": "https://eacg1.com",
+      "extension": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/Xiu_eacg2.js",
+      "smallcat": "不能直接匯入，需移植 JS 邏輯",
+      "note": "EACG 的另一版擴展"
+    },
+    {
+      "name": "八號TV",
+      "kind": "uz_js_extension",
+      "website": "https://www.bahaotv.com",
+      "extension": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/Xiu_bhys.js",
+      "smallcat": "不能直接匯入，需移植 JS 邏輯",
+      "note": "備份中可見電影/電視劇/動漫分類規則"
+    },
+    {
+      "name": "烏雲",
+      "kind": "uz_js_extension",
+      "website": "https://wooyun.tv",
+      "extension": "https://cdn.jsdelivr.net/gh/YYDS678/uzVideo-extensions@main/vod/js/Zhi_wooyun.js",
+      "smallcat": "不能直接匯入，需移植 JS 邏輯",
+      "note": "播放流程含 wooyun:// 自訂 token"
+    },
+    {
+      "name": "歐樂/OLE",
+      "kind": "uz_js_extension",
+      "website": "https://www.olevod.tv",
+      "extension": "https://cdn.jsdelivr.net/gh/YYDS678/uzVideo-extensions@main/vod/js/Zhi_olevod.js",
+      "smallcat": "不能直接匯入，需移植 JS 邏輯",
+      "note": "實際 API 涉及 api.olelive.com 與簽名"
+    },
+    {
+      "name": "奇優",
+      "kind": "uz_js_extension",
+      "website": "http://www.qiyoudy4.com",
+      "extension": "https://cdn.jsdelivr.net/gh/YYDS678/uzVideo-extensions@main/vod/js/Zhi_qiyou.js",
+      "smallcat": "不能直接匯入，需移植 JS 邏輯",
+      "note": "UZ JS 擴展"
+    },
+    {
+      "name": "iKanBot",
+      "kind": "uz_js_extension",
+      "website": "https://v.aikanbot.com",
+      "extension": "https://cdn.jsdelivr.net/gh/YYDS678/uzVideo-extensions@main/vod/js/Zhi_iKanBot.txt",
+      "smallcat": "不能直接匯入，需移植/解密 JS 邏輯",
+      "note": "備份內容為加密擴展"
+    },
+    {
+      "name": "hmdj",
+      "kind": "uz_js_extension",
+      "website": null,
+      "extension": "https://cdn.jsdelivr.net/gh/YYDS678/uzVideo-extensions@main/vod/js/Zhi_hmdj.txt",
+      "smallcat": "不能直接匯入，需移植/解密 JS 邏輯",
+      "note": "備份中存在，網站主址未能從備份明文確認"
+    },
+    {
+      "name": "kwts",
+      "kind": "uz_js_extension",
+      "website": null,
+      "extension": "https://cdn.jsdelivr.net/gh/YYDS678/uzVideo-extensions@main/vod/js/Zhi_kwts.txt",
+      "smallcat": "不能直接匯入，需移植/解密 JS 邏輯",
+      "note": "備份中存在，網站主址未能從備份明文確認"
+    }
+  ]
+}
