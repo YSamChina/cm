@@ -1,0 +1,32 @@
+﻿[
+  {
+    "id": "girigirilove_test2",
+    "name": "girigirilove 測試2",
+    "api": "https://ani.girigirilove.com",
+    "nsfw": false,
+    "type": 1,
+    "logo": "",
+    "desc": "小貓2.5.9單源測試2｜修正第一頁網址並改用Regex解析列表",
+    "extra": {
+      "gfw": false,
+      "searchLimit": 12,
+      "js": {
+        "category": [
+          {
+            "text": "日番",
+            "id": "2"
+          },
+          {
+            "text": "劇場版",
+            "id": "21"
+          }
+        ],
+        "home": "const cate=env.get(\"category\"); const page=parseInt(env.get(\"page\")||\"1\"); const url=page<=1?`${env.baseUrl}/show/${cate}-----------/`:`${env.baseUrl}/show/${cate}--------${page}---/`; const html=await (0,utils_1.req)(url); const out=[]; const reg=/<a\\b([^>]*?)href=[\"'](\\/GV\\d+\\/?)[\"']([^>]*)>([\\s\\S]*?)<\\/a>/gi; let m; while((m=reg.exec(html))!==null){ const attrs=(m[1]||\"\")+\" \"+(m[3]||\"\"); const body=m[4]||\"\"; const id=m[2]; let title=\"\"; let mm=attrs.match(/\\btitle=[\"']([^\"']+)[\"']/i); if(mm) title=mm[1].trim(); if(!title){ mm=body.match(/<img\\b[^>]*\\balt=[\"']([^\"']+)[\"']/i); if(mm) title=mm[1].trim(); } if(!title){ title=body.replace(/<[^>]+>/g,\" \").replace(/\\s+/g,\" \").trim(); } let cover=\"\"; mm=body.match(/<img\\b[^>]*(?:data-src|data-original|src)=[\"']([^\"']+)[\"']/i); if(mm) cover=mm[1]; if(cover.startsWith(\"//\")) cover=\"https:\"+cover; else if(cover.startsWith(\"/\")) cover=env.baseUrl+cover; let remark=\"\"; const rm=body.match(/(?:pic-text|remarks|module-item-note|video-serial)[^>]*>([^<]+)/i); if(rm) remark=rm[1].trim(); if(title && !out.some(x=>x.id===id)) out.push({id,title,cover,remark}); } return out",
+        "search": "const wd=env.get(\"keyword\"); const page=parseInt(env.get(\"page\")||\"1\"); const url=`${env.baseUrl}/search/${encodeURIComponent(wd)}----------${page}---/`; const html=await (0,utils_1.req)(url); const out=[]; const reg=/<a\\b([^>]*?)href=[\"'](\\/GV\\d+\\/?)[\"']([^>]*)>([\\s\\S]*?)<\\/a>/gi; let m; while((m=reg.exec(html))!==null){ const attrs=(m[1]||\"\")+\" \"+(m[3]||\"\"); const body=m[4]||\"\"; const id=m[2]; let title=\"\"; let mm=attrs.match(/\\btitle=[\"']([^\"']+)[\"']/i); if(mm) title=mm[1].trim(); if(!title){ mm=body.match(/<img\\b[^>]*\\balt=[\"']([^\"']+)[\"']/i); if(mm) title=mm[1].trim(); } if(!title) title=body.replace(/<[^>]+>/g,\" \").replace(/\\s+/g,\" \").trim(); let cover=\"\"; mm=body.match(/<img\\b[^>]*(?:data-src|data-original|src)=[\"']([^\"']+)[\"']/i); if(mm) cover=mm[1]; if(cover.startsWith(\"//\")) cover=\"https:\"+cover; else if(cover.startsWith(\"/\")) cover=env.baseUrl+cover; if(title && !out.some(x=>x.id===id)) out.push({id,title,cover,remark:\"\"}); } return out",
+        "detail": "const id=env.get(\"movieId\"); const url=id.startsWith(\"http\")?id:`${env.baseUrl}${id}`; const html=await (0,utils_1.req)(url); let cover=\"\"; let mm=html.match(/<img\\b[^>]*(?:data-src|data-original|src)=[\"']([^\"']+)[\"'][^>]*alt=[\"'][^\"']+[\"']/i); if(!mm) mm=html.match(/<img\\b[^>]*(?:data-src|data-original|src)=[\"']([^\"']+)[\"']/i); if(mm) cover=mm[1]; if(cover.startsWith(\"//\")) cover=\"https:\"+cover; else if(cover.startsWith(\"/\")) cover=env.baseUrl+cover; let desc=\"\"; mm=html.match(/<meta\\b[^>]*name=[\"']description[\"'][^>]*content=[\"']([^\"']*)[\"']/i); if(mm) desc=mm[1].trim(); const videos=[]; const reg=/<a\\b[^>]*href=[\"'](\\/playGV\\d+-\\d+-\\d+\\/?)[\"'][^>]*>([\\s\\S]*?)<\\/a>/gi; let m; while((m=reg.exec(html))!==null){ const pid=m[1]; let text=(m[2]||\"\").replace(/<[^>]+>/g,\" \").replace(/\\s+/g,\" \").trim(); if(!text) text=`第${videos.length+1}集`; if(!videos.some(x=>x.id===pid)) videos.push({id:pid,text}); } return {cover,desc,playlist:[{title:\"播放\",videos}]}",
+        "parseIframe": "return utils_1.kitty.utils.getM3u8WithIframe(env)"
+      },
+      "jiexiUrl": ""
+    }
+  }
+]
