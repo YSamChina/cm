@@ -1,0 +1,41 @@
+﻿[
+  {
+    "name": "天翼資源",
+    "logo": "",
+    "desc": "UZ備份直接抽出｜第四批測試",
+    "nsfw": false,
+    "api": {
+      "root": "https://www.911ysw.top",
+      "path": "/tianyi.php/provide/vod/at/json"
+    },
+    "id": "uztest4_tianyi",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "神馬電影資源",
+    "logo": "",
+    "desc": "UZ備份直接抽出｜第四批測試",
+    "nsfw": false,
+    "api": {
+      "root": "https://img.smdyw.top",
+      "path": "/api.php/provide/vod"
+    },
+    "id": "uztest4_smdyw",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "Simi資源",
+    "logo": "",
+    "desc": "UZ備份直接抽出｜第四批測試",
+    "nsfw": false,
+    "api": {
+      "root": "https://simiyy.com",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "uztest4_simi",
+    "status": true,
+    "jiexiUrl": null
+  }
+]
