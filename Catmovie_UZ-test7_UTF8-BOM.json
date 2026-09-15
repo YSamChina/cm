@@ -1,0 +1,93 @@
+﻿[
+  {
+    "name": "黑木耳資源",
+    "logo": "",
+    "desc": "UZ備份抽出測試源",
+    "nsfw": false,
+    "api": {
+      "root": "https://json.heimuer.tv",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "uztest_heimuer",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "快車資源",
+    "logo": "",
+    "desc": "UZ備份抽出測試源",
+    "nsfw": false,
+    "api": {
+      "root": "https://caiji.kuaichezy.org",
+      "path": "/api.php/provide/vod"
+    },
+    "id": "uztest_kuaiche",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "臥龍資源",
+    "logo": "",
+    "desc": "UZ備份抽出測試源",
+    "nsfw": false,
+    "api": {
+      "root": "https://wolongzyw.com",
+      "path": "/api.php/provide/vod"
+    },
+    "id": "uztest_wolong",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "無水印資源",
+    "logo": "",
+    "desc": "UZ備份抽出測試源",
+    "nsfw": false,
+    "api": {
+      "root": "https://api.wsyzy.net",
+      "path": "/api.php/provide/vod"
+    },
+    "id": "uztest_wsy",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "旺旺資源",
+    "logo": "",
+    "desc": "UZ備份抽出測試源",
+    "nsfw": false,
+    "api": {
+      "root": "https://api.wwzy.tv",
+      "path": "/api.php/provide/vod"
+    },
+    "id": "uztest_wangwang",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "貓眼資源",
+    "logo": "",
+    "desc": "UZ備份抽出測試源",
+    "nsfw": false,
+    "api": {
+      "root": "https://api.maoyanapi.top",
+      "path": "/api.php/provide/vod"
+    },
+    "id": "uztest_maoyan",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "電影天堂",
+    "logo": "",
+    "desc": "UZ備份抽出測試源",
+    "nsfw": false,
+    "api": {
+      "root": "http://caiji.dyttzyapi.com",
+      "path": "/api.php/provide/vod"
+    },
+    "id": "uztest_dytt",
+    "status": true,
+    "jiexiUrl": null
+  }
+]
