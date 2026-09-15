@@ -1,0 +1,743 @@
+﻿[
+  {
+    "name": "360資源",
+    "logo": "",
+    "desc": "一般源｜小貓53特選源",
+    "nsfw": false,
+    "api": {
+      "root": "https://360zy.com",
+      "path": "/api.php/provide/vod"
+    },
+    "id": "cat_18",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "U酷資源",
+    "logo": "",
+    "desc": "一般源｜小貓53特選源",
+    "nsfw": false,
+    "api": {
+      "root": "http://api.ukuapi.com",
+      "path": "/api.php/provide/vod"
+    },
+    "id": "cat_19",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "YY資源",
+    "logo": "",
+    "desc": "一般源｜小貓53特選源",
+    "nsfw": false,
+    "api": {
+      "root": "https://cj.yayazy.net",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "cat_20",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "優質資源庫",
+    "logo": "",
+    "desc": "一般源｜小貓高相容源｜小貓53特選源｜小貓高相容",
+    "nsfw": false,
+    "api": {
+      "root": "http://api.1080zyku.com",
+      "path": "/inc/api.php/provide/vod"
+    },
+    "id": "cat_21",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "天涯影視資源",
+    "logo": "",
+    "desc": "一般源｜小貓53特選源",
+    "nsfw": false,
+    "api": {
+      "root": "https://tyyszyapi.com",
+      "path": "/api.php/provide/vod"
+    },
+    "id": "cat_22",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "愛坤資源",
+    "logo": "",
+    "desc": "一般源｜小貓53特選源",
+    "nsfw": false,
+    "api": {
+      "root": "https://ikunzyapi.com",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "cat_23",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "暴風資源",
+    "logo": "",
+    "desc": "一般源｜小貓53特選源",
+    "nsfw": false,
+    "api": {
+      "root": "https://bfzyapi.com",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "cat_24",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "最大資源",
+    "logo": "",
+    "desc": "一般源｜小貓53特選源",
+    "nsfw": false,
+    "api": {
+      "root": "http://zuidazy.me",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "cat_25",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "極速資源",
+    "logo": "",
+    "desc": "一般源｜小貓53特選源",
+    "nsfw": false,
+    "api": {
+      "root": "https://jszyapi.com",
+      "path": "/api.php/provide/vod/at/json"
+    },
+    "id": "cat_26",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "櫻花資源",
+    "logo": "",
+    "desc": "一般源｜小貓53特選源",
+    "nsfw": false,
+    "api": {
+      "root": "http://m3u8.apiyhzy.com",
+      "path": "/api.php/provide/vod"
+    },
+    "id": "cat_27",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "無盡資源",
+    "logo": "",
+    "desc": "一般源｜小貓53特選源",
+    "nsfw": false,
+    "api": {
+      "root": "https://api.wujinapi.me",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "cat_28",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "牛牛資源",
+    "logo": "",
+    "desc": "一般源｜小貓53特選源",
+    "nsfw": false,
+    "api": {
+      "root": "https://api.niuniuzy.me",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "cat_29",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "百度資源",
+    "logo": "",
+    "desc": "一般源｜小貓53特選源",
+    "nsfw": false,
+    "api": {
+      "root": "http://api.apibdzy.com",
+      "path": "/api.php/provide/vod"
+    },
+    "id": "cat_30",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "紅牛資源",
+    "logo": "",
+    "desc": "一般源｜小貓53特選源",
+    "nsfw": false,
+    "api": {
+      "root": "http://hongniuzy2.com",
+      "path": "/api.php/provide/vod/from/hnm3u8"
+    },
+    "id": "cat_31",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "茅台資源",
+    "logo": "",
+    "desc": "一般源｜小貓53特選源",
+    "nsfw": false,
+    "api": {
+      "root": "https://caiji.maotaizy.cc",
+      "path": "/api.php/provide/vod/at/josn/"
+    },
+    "id": "cat_32",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "豆瓣資源",
+    "logo": "",
+    "desc": "一般源｜小貓53特選源",
+    "nsfw": false,
+    "api": {
+      "root": "https://caiji.dbzy5.com",
+      "path": "/api.php/provide/vod/at/josn/"
+    },
+    "id": "cat_33",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "速博資源",
+    "logo": "",
+    "desc": "一般源｜小貓53特選源",
+    "nsfw": false,
+    "api": {
+      "root": "https://subocaiji.com",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "cat_34",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "速播資源",
+    "logo": "",
+    "desc": "一般源｜小貓53特選源",
+    "nsfw": false,
+    "api": {
+      "root": "https://subocj.com",
+      "path": "/api.php/provide/vod/at/json"
+    },
+    "id": "cat_35",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "量子資源",
+    "logo": "",
+    "desc": "一般源｜小貓53特選源",
+    "nsfw": false,
+    "api": {
+      "root": "http://cj.lziapi.com",
+      "path": "/api.php/provide/vod/from/lzm3u8"
+    },
+    "id": "cat_36",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "閃電資源",
+    "logo": "",
+    "desc": "一般源｜小貓53特選源",
+    "nsfw": false,
+    "api": {
+      "root": "http://sdzyapi.com",
+      "path": "/api.php/provide/vod/from/sdm3u8"
+    },
+    "id": "cat_37",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "飄零影院",
+    "logo": "",
+    "desc": "一般源｜小貓53特選源",
+    "nsfw": false,
+    "api": {
+      "root": "https://p2100.net",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "cat_38",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "魔都資源",
+    "logo": "",
+    "desc": "一般源｜小貓53特選源",
+    "nsfw": false,
+    "api": {
+      "root": "https://www.mdzyapi.com",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "cat_39",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "魔都資源",
+    "logo": "",
+    "desc": "一般源｜小貓53特選源",
+    "nsfw": false,
+    "api": {
+      "root": "https://caiji.moduapi.cc",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "cat_40",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "1080資源庫",
+    "logo": "",
+    "desc": "一般源｜小貓53特選源",
+    "nsfw": false,
+    "api": {
+      "root": "https://api.yzzy-api.com",
+      "path": "/inc/api_mac10.php"
+    },
+    "id": "cat_41",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "360資源",
+    "logo": "",
+    "desc": "一般源｜小貓53特選源",
+    "nsfw": false,
+    "api": {
+      "root": "https://360zyzz.com",
+      "path": "/api.php/provide/vod"
+    },
+    "id": "cat_42",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "光速雲",
+    "logo": "",
+    "desc": "一般源｜小貓53特選源",
+    "nsfw": false,
+    "api": {
+      "root": "https://api.guangsuapi.com",
+      "path": "/api.php/provide/vod/at/json/"
+    },
+    "id": "cat_43",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "如意資源",
+    "logo": "",
+    "desc": "一般源｜小貓高相容源｜小貓53特選源｜小貓高相容",
+    "nsfw": false,
+    "api": {
+      "root": "https://cj.rycjapi.com",
+      "path": "/api.php/provide/vod/at/xml/"
+    },
+    "id": "cat_44",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "新浪資源",
+    "logo": "",
+    "desc": "一般源｜小貓53特選源",
+    "nsfw": false,
+    "api": {
+      "root": "https://api.xinlangapi.com",
+      "path": "/xinlangapi.php/provide/vod/at/json"
+    },
+    "id": "cat_45",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "火狐資源",
+    "logo": "",
+    "desc": "一般源｜小貓53特選源",
+    "nsfw": false,
+    "api": {
+      "root": "https://hhzyapi.com",
+      "path": "/api.php/provide/vod"
+    },
+    "id": "cat_46",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "索尼資源",
+    "logo": "",
+    "desc": "一般源｜小貓53特選源",
+    "nsfw": false,
+    "api": {
+      "root": "https://suoniapi.com",
+      "path": "/api.php/provide/vod/from/snm3u8/at/json/"
+    },
+    "id": "cat_47",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "艾旦影視",
+    "logo": "",
+    "desc": "一般源｜小貓53特選源",
+    "nsfw": false,
+    "api": {
+      "root": "http://lovedan.net",
+      "path": "/api.php/provide/vod"
+    },
+    "id": "cat_48",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "虎牙資源",
+    "logo": "",
+    "desc": "一般源｜小貓53特選源",
+    "nsfw": false,
+    "api": {
+      "root": "https://www.huyaapi.com",
+      "path": "/api.php/provide/vod/at/json"
+    },
+    "id": "cat_49",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "金鷹資源",
+    "logo": "",
+    "desc": "一般源｜小貓53特選源",
+    "nsfw": false,
+    "api": {
+      "root": "https://jyzyapi.com",
+      "path": "/provide/vod/at/json"
+    },
+    "id": "cat_50",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "非凡資源",
+    "logo": "",
+    "desc": "一般源｜小貓53特選源",
+    "nsfw": false,
+    "api": {
+      "root": "http://api.ffzyapi.com",
+      "path": "/api.php/provide/vod/at/xml"
+    },
+    "id": "cat_51",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "森林資源",
+    "logo": "",
+    "desc": "成人源｜小貓53特選源",
+    "nsfw": true,
+    "api": {
+      "root": "https://slapibf.com",
+      "path": "/api.php/provide/vod"
+    },
+    "id": "cat_52",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "奧斯卡資源",
+    "logo": "",
+    "desc": "成人源｜小貓53特選源",
+    "nsfw": true,
+    "api": {
+      "root": "https://aosikazy.com",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "cat_53",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "滴滴資源",
+    "logo": "",
+    "desc": "成人源｜小貓53特選源",
+    "nsfw": true,
+    "api": {
+      "root": "https://api.ddapi.cc",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "cat_54",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "辣椒資源",
+    "logo": "",
+    "desc": "成人源｜小貓53特選源",
+    "nsfw": true,
+    "api": {
+      "root": "https://apilj.com",
+      "path": "/api.php/provide/vod/at/json/"
+    },
+    "id": "cat_55",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "老色逼資源",
+    "logo": "",
+    "desc": "成人源｜小貓53特選源",
+    "nsfw": true,
+    "api": {
+      "root": "https://apilsbzy1.com",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "cat_56",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "玉兔資源",
+    "logo": "",
+    "desc": "成人源｜小貓53特選源",
+    "nsfw": true,
+    "api": {
+      "root": "https://apiyutu.com",
+      "path": "/api.php/provide/vod"
+    },
+    "id": "cat_57",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "樂播資源",
+    "logo": "",
+    "desc": "成人源｜小貓53特選源",
+    "nsfw": true,
+    "api": {
+      "root": "https://lbapi9.com",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "cat_58",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "麻豆資源",
+    "logo": "",
+    "desc": "成人源｜小貓53特選源",
+    "nsfw": true,
+    "api": {
+      "root": "http://91md.me",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "cat_59",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "91視頻",
+    "logo": "",
+    "desc": "成人源｜小貓53特選源",
+    "nsfw": true,
+    "api": {
+      "root": "https://91av.cyou",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "cat_60",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "番號資源",
+    "logo": "",
+    "desc": "成人源｜小貓53特選源",
+    "nsfw": true,
+    "api": {
+      "root": "http://fhapi9.com",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "cat_61",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "大地資源",
+    "logo": "",
+    "desc": "成人源｜小貓53特選源",
+    "nsfw": true,
+    "api": {
+      "root": "https://dadiapi.com",
+      "path": "/api.php"
+    },
+    "id": "cat_62",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "JKun資源",
+    "logo": "",
+    "desc": "成人源｜小貓53特選源",
+    "nsfw": true,
+    "api": {
+      "root": "https://jkunzyapi.com",
+      "path": "/api.php/provide/vod"
+    },
+    "id": "cat_63",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "鯊魚資源",
+    "logo": "",
+    "desc": "成人源｜小貓53特選源",
+    "nsfw": true,
+    "api": {
+      "root": "https://shayuapi.com",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "cat_64",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "精品資源",
+    "logo": "",
+    "desc": "成人源｜小貓53特選源",
+    "nsfw": true,
+    "api": {
+      "root": "https://www.jingpinx.com",
+      "path": "/api.php/provide/vod"
+    },
+    "id": "cat_65",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "濕樂園",
+    "logo": "",
+    "desc": "成人源｜小貓新增源｜非53｜≥80%",
+    "nsfw": true,
+    "api": {
+      "root": "https://xxavs.com",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "shileyuan",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "快車資源",
+    "logo": "",
+    "desc": "一般源｜UZ新增實測源｜UZ備份轉入｜小貓2.5.9實測可用",
+    "nsfw": false,
+    "api": {
+      "root": "https://caiji.kuaichezy.org",
+      "path": "/api.php/provide/vod"
+    },
+    "id": "uz_kuaiche",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "無水印資源",
+    "logo": "",
+    "desc": "一般源｜UZ新增實測源｜UZ備份轉入｜小貓2.5.9實測可用",
+    "nsfw": false,
+    "api": {
+      "root": "https://api.wsyzy.net",
+      "path": "/api.php/provide/vod"
+    },
+    "id": "uz_wsy",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "貓眼資源",
+    "logo": "",
+    "desc": "一般源｜UZ新增實測源｜UZ備份轉入｜小貓2.5.9實測可用",
+    "nsfw": false,
+    "api": {
+      "root": "https://api.maoyanapi.top",
+      "path": "/api.php/provide/vod"
+    },
+    "id": "uz_maoyan",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "電影天堂",
+    "logo": "",
+    "desc": "一般源｜UZ新增實測源｜UZ備份轉入｜小貓2.5.9實測可用",
+    "nsfw": false,
+    "api": {
+      "root": "http://caiji.dyttzyapi.com",
+      "path": "/api.php/provide/vod"
+    },
+    "id": "uz_dytt",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "OK資源",
+    "logo": "",
+    "desc": "一般源｜UZ新增實測源｜UZ備份轉入｜小貓2.5.9實測可用",
+    "nsfw": false,
+    "api": {
+      "root": "https://api.okzyw.net",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "uz_ok",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "愛奇藝資源",
+    "logo": "",
+    "desc": "一般源｜UZ新增實測源｜UZ備份轉入｜小貓2.5.9實測可用",
+    "nsfw": false,
+    "api": {
+      "root": "https://iqiyizyapi.com",
+      "path": "/api.php/provide/vod"
+    },
+    "id": "uz_iqiyi",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "155資源",
+    "logo": "",
+    "desc": "成人源｜UZ新增實測源｜UZ備份轉入｜小貓2.5.9實測可用",
+    "nsfw": true,
+    "api": {
+      "root": "https://155api.com",
+      "path": "/api.php/provide/vod"
+    },
+    "id": "uz_155",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "奶香香資源",
+    "logo": "",
+    "desc": "成人源｜UZ新增實測源｜UZ備份轉入｜小貓2.5.9實測可用",
+    "nsfw": true,
+    "api": {
+      "root": "https://naixxzy.com",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "uz_naixx",
+    "status": true,
+    "jiexiUrl": null
+  }
+]
