@@ -1,0 +1,54 @@
+﻿[
+  {
+    "name": "155資源",
+    "logo": "",
+    "desc": "UZ備份/先前確認可新增候選｜第二批測試",
+    "nsfw": true,
+    "api": {
+      "root": "https://155api.com",
+      "path": "/api.php/provide/vod"
+    },
+    "id": "uztest2_155",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "奶香香資源",
+    "logo": "",
+    "desc": "UZ備份/先前確認可新增候選｜第二批測試",
+    "nsfw": true,
+    "api": {
+      "root": "https://naixxzy.com",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "uztest2_naixx",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "KK寫真資源",
+    "logo": "",
+    "desc": "UZ備份/先前確認可新增候選｜第二批測試",
+    "nsfw": true,
+    "api": {
+      "root": "https://kkzy.me",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "uztest2_kk",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "速度資源",
+    "logo": "",
+    "desc": "UZ備份/先前確認可新增候選｜XML類型，第二批測試",
+    "nsfw": true,
+    "api": {
+      "root": "http://www.ggmmzy.com:9999",
+      "path": "/inc/xml"
+    },
+    "id": "uztest2_speed",
+    "status": true,
+    "jiexiUrl": null
+  }
+]
