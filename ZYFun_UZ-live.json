@@ -1,0 +1,123 @@
+﻿{
+  "sites": {
+    "default": 1,
+    "data": []
+  },
+  "iptv": {
+    "default": 1,
+    "data": [
+      {
+        "name": "MAfly-TV直播",
+        "url": "https://gh-proxy.org/https://raw.githubusercontent.com/mhmdxahmd/mafly/refs/heads/main/MAfly1/mafly.m3u",
+        "type": "remote",
+        "epg": "http://epg.112114.xyz",
+        "isActive": true,
+        "id": 1
+      },
+      {
+        "name": "褲佬TV直播",
+        "url": "https://live.445569.xyz/live.m3u",
+        "type": "remote",
+        "epg": "http://epg.112114.xyz",
+        "isActive": true,
+        "id": 2
+      },
+      {
+        "name": "瀟雨萌萌TV直播",
+        "url": "https://itv.tv1288.xyz",
+        "type": "remote",
+        "epg": "http://epg.112114.xyz",
+        "isActive": true,
+        "id": 3
+      },
+      {
+        "name": "日後TV直播",
+        "url": "http://rihou.cc:555/gggg.nzk",
+        "type": "remote",
+        "epg": "http://epg.112114.xyz",
+        "isActive": true,
+        "id": 4
+      },
+      {
+        "name": "咪咕TV直播",
+        "url": "https://proxy.api.030101.xyz/develop202.github.io/migu_video/interface.txt",
+        "type": "remote",
+        "epg": "http://epg.112114.xyz",
+        "isActive": true,
+        "id": 5
+      },
+      {
+        "name": "濤濤TV直播",
+        "url": "https://gh-proxy.org/https://raw.githubusercontent.com/taoBox2620/taoBox2620/refs/heads/main/log.png",
+        "type": "remote",
+        "epg": "http://epg.112114.xyz",
+        "isActive": true,
+        "id": 6
+      },
+      {
+        "name": "虎牙TV直播",
+        "url": "https://yg.ygbox.de5.net/huya.php",
+        "type": "remote",
+        "epg": "http://epg.112114.xyz",
+        "isActive": true,
+        "id": 7
+      },
+      {
+        "name": "宮殿TV直播",
+        "url": "https://gongdian.top/tv/iptv",
+        "type": "remote",
+        "epg": "http://epg.112114.xyz",
+        "isActive": true,
+        "id": 8
+      },
+      {
+        "name": "易發TV直播",
+        "url": "https://gh-proxy.org/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt",
+        "type": "remote",
+        "epg": "http://epg.112114.xyz",
+        "isActive": true,
+        "id": 9
+      },
+      {
+        "name": "JackTV直播",
+        "url": "https://php.946985.filegear-sg.me/jackTV.m3u",
+        "type": "remote",
+        "epg": "http://epg.112114.xyz",
+        "isActive": true,
+        "id": 10
+      },
+      {
+        "name": "台灣TV直播",
+        "url": "https://ha.msbot.dpdns.org/4gtv_api.php",
+        "type": "remote",
+        "epg": "http://epg.112114.xyz",
+        "isActive": true,
+        "id": 11
+      },
+      {
+        "name": "全球TV直播",
+        "url": "https://proxy.api.030101.xyz/iptv-org.github.io/iptv/index.m3u",
+        "type": "remote",
+        "epg": "http://epg.112114.xyz",
+        "isActive": true,
+        "id": 12
+      },
+      {
+        "name": "體育直播",
+        "url": "https://sports.445569.xyz/all.m3u",
+        "type": "remote",
+        "epg": "http://epg.112114.xyz",
+        "isActive": true,
+        "id": 13
+      }
+    ]
+  },
+  "analyze": {
+    "default": 1,
+    "data": []
+  },
+  "drive": {
+    "default": 1,
+    "data": []
+  }
+}
