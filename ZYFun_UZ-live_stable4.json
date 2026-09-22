@@ -1,0 +1,44 @@
+﻿{
+  "analyze": [],
+  "iptv": [
+    {
+      "id": "21ca2c8a-9a60-4b82-b16b-f08796287e29",
+      "name": "MAfly-TV直播",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/mhmdxahmd/mafly/refs/heads/main/MAfly1/mafly.m3u",
+      "type": "remote",
+      "isActive": true,
+      "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo": "https://epg.112114.eu.org/logo/{name}.png"
+    },
+    {
+      "id": "69bbca17-3bd6-4a9e-826c-c8c10c70c317",
+      "name": "虎牙TV直播",
+      "url": "https://yg.ygbox.de5.net/huya.php",
+      "type": "remote",
+      "isActive": true,
+      "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo": "https://epg.112114.eu.org/logo/{name}.png"
+    },
+    {
+      "id": "4eed1ef6-2501-4c41-bcc8-fae3d6b19873",
+      "name": "易發TV直播",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt",
+      "type": "remote",
+      "isActive": true,
+      "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo": "https://epg.112114.eu.org/logo/{name}.png"
+    },
+    {
+      "id": "a86eee3e-6c32-4dc4-be33-9cd8712625f9",
+      "name": "JackTV直播",
+      "url": "https://php.946985.filegear-sg.me/jackTV.m3u",
+      "type": "remote",
+      "isActive": true,
+      "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo": "https://epg.112114.eu.org/logo/{name}.png"
+    }
+  ],
+  "channel": [],
+  "sites": [],
+  "drive": []
+}
